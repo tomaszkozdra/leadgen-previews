@@ -1,0 +1,24 @@
+{
+  "leadId": "ChIJSeYTpRNbFkcRyfuJjAxjZC8",
+  "studioName": "Studio Jogi Katarzyny Pilorz",
+  "city": "Kraków",
+  "addressLine": "Kazimierza Morawskiego 12",
+  "postalCode": "30-102",
+  "phone": "+48 791 222 191",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJSeYTpRNbFkcRyfuJjAxjZC8/ChIJSeYTpRNbFkcRyfuJjAxjZC8.jpg",
+  "rating": 5,
+  "userRatingCount": 52,
+  "openingHoursLines": [
+    "poniedziałek: 18:00–21:00",
+    "wtorek: 18:00–19:30",
+    "środa: 18:00–21:00",
+    "czwartek: 18:00–19:30",
+    "piątek: Zamknięte",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": []
+}
