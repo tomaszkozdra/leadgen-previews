@@ -1,0 +1,36 @@
+{
+  "leadId": "ChIJddpIBXsTBkcRUX-JPYTiXRo",
+  "studioName": "Odzyskaj Balans Zielona Góra | Coaching | Joga",
+  "city": "Zielona Góra",
+  "addressLine": "Mikołaja Reja 3",
+  "postalCode": "65-076",
+  "phone": "+48 516 380 839",
+  "primaryColor": "#664d3d",
+  "accentColor": "#a9a770",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJddpIBXsTBkcRUX-JPYTiXRo/ChIJddpIBXsTBkcRUX-JPYTiXRo.jpg",
+  "rating": 5,
+  "userRatingCount": 8,
+  "openingHoursLines": [
+    "poniedziałek: 12:00–17:00",
+    "wtorek: 12:00–17:00",
+    "środa: 12:00–17:00",
+    "czwartek: 12:00–17:00",
+    "piątek: 12:00–17:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Yin yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJddpIBXsTBkcRUX-JPYTiXRo/ChIJddpIBXsTBkcRUX-JPYTiXRo-gallery-1.jpg"
+    },
+    {
+      "name": "Coaching",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJddpIBXsTBkcRUX-JPYTiXRo/ChIJddpIBXsTBkcRUX-JPYTiXRo-gallery-2.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Marcin Pawlina"
+  ],
+  "singlePrice": null
+}
