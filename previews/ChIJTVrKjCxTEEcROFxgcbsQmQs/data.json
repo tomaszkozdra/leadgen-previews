@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJTVrKjCxTEEcROFxgcbsQmQs",
+  "studioName": "Lakshmi Yoga & Wellness",
+  "city": "Opole",
+  "addressLine": "Ozimska",
+  "postalCode": "45-065",
+  "phone": "+48 786 873 289",
+  "primaryColor": "#665e3d",
+  "accentColor": "#93a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJTVrKjCxTEEcROFxgcbsQmQs/ChIJTVrKjCxTEEcROFxgcbsQmQs.jpg",
+  "rating": 5,
+  "userRatingCount": 54,
+  "openingHoursLines": [
+    "poniedziałek: 15:00–21:30",
+    "wtorek: 16:00–21:30",
+    "środa: 15:00–21:30",
+    "czwartek: 16:00–21:30",
+    "piątek: 16:00–20:30",
+    "sobota: 08:30–12:30",
+    "niedziela: 19:00–20:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
