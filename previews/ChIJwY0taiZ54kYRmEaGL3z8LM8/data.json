@@ -1,0 +1,32 @@
+{
+  "leadId": "ChIJwY0taiZ54kYRmEaGL3z8LM8",
+  "studioName": "HARMONIUM Studio Rozwoju Człowieka w Olsztynie",
+  "city": "Olsztyn",
+  "addressLine": "aleja Marszałka Józefa Piłsudskiego 54",
+  "postalCode": "10-450",
+  "phone": "+48 601 382 112",
+  "primaryColor": "#1d8287",
+  "accentColor": "#4279d7",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJwY0taiZ54kYRmEaGL3z8LM8/ChIJwY0taiZ54kYRmEaGL3z8LM8.jpg",
+  "rating": 5,
+  "userRatingCount": 35,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Joga dla początkujących",
+      "imageUrl": null
+    },
+    {
+      "name": "Body-Mind Flow",
+      "imageUrl": null
+    },
+    {
+      "name": "Nordic Walking",
+      "imageUrl": null
+    }
+  ],
+  "instructorNames": [
+    "Marek Ruczko"
+  ],
+  "singlePrice": null
+}
