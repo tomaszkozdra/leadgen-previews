@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJG1ZZYbsTA0cRJsA85J-VbMw",
+  "studioName": "Fit Forma Bydgoszcz",
+  "city": "Bydgoszcz",
+  "addressLine": "Pod Blankami 33",
+  "postalCode": "85-034",
+  "phone": "+48 515 382 207",
+  "primaryColor": "#37566c",
+  "accentColor": "#6767b1",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJG1ZZYbsTA0cRJsA85J-VbMw/ChIJG1ZZYbsTA0cRJsA85J-VbMw.jpg",
+  "rating": 5,
+  "userRatingCount": 75,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–10:00, 15:30–21:00",
+    "wtorek: 15:30–20:00",
+    "środa: 08:30–10:00, 15:30–20:00",
+    "czwartek: 15:30–20:00",
+    "piątek: 08:30–10:00, 13:40–15:00, 17:20–20:00",
+    "sobota: Zamknięte",
+    "niedziela: 09:30–11:00"
+  ],
+  "classes": [
+    {
+      "name": "Jumping Fitness",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJG1ZZYbsTA0cRJsA85J-VbMw/ChIJG1ZZYbsTA0cRJsA85J-VbMw-gallery-1.jpg"
+    },
+    {
+      "name": "Płaski Brzuch",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJG1ZZYbsTA0cRJsA85J-VbMw/ChIJG1ZZYbsTA0cRJsA85J-VbMw-gallery-2.jpg"
+    },
+    {
+      "name": "Zdrowy Kręgosłup",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJG1ZZYbsTA0cRJsA85J-VbMw/ChIJG1ZZYbsTA0cRJsA85J-VbMw-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
