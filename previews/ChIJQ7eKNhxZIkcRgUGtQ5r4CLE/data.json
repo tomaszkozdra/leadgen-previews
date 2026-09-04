@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJQ7eKNhxZIkcRgUGtQ5r4CLE",
+  "studioName": "Pila Pila - Pilates Lublin",
+  "city": "Lublin",
+  "addressLine": "Onyksowa 19",
+  "postalCode": "20-582",
+  "phone": "+48 792 580 560",
+  "primaryColor": "#754c2f",
+  "accentColor": "#bebd5b",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE.jpg",
+  "rating": 5,
+  "userRatingCount": 36,
+  "openingHoursLines": [
+    "poniedziałek: 10:30–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–20:00",
+    "sobota: 09:00–19:00",
+    "niedziela: 09:00–11:00"
+  ],
+  "classes": [
+    {
+      "name": "Baby Boom Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE-gallery-1.jpg"
+    },
+    {
+      "name": "Power Up Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE-gallery-2.jpg"
+    },
+    {
+      "name": "Mamma Mia Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE/ChIJQ7eKNhxZIkcRgUGtQ5r4CLE-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
