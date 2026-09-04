@@ -1,0 +1,42 @@
+{
+  "leadId": "ChIJFZjE6K1bBEcRF_4G-y4167M",
+  "studioName": "Sankalpa Yoga i Dźwięk",
+  "city": "Poznań",
+  "addressLine": "Ratajczaka 26",
+  "postalCode": "61-815",
+  "phone": "+48 509 123 135",
+  "primaryColor": "#66513d",
+  "accentColor": "#a5a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJFZjE6K1bBEcRF_4G-y4167M/ChIJFZjE6K1bBEcRF_4G-y4167M.jpg",
+  "rating": 5,
+  "userRatingCount": 60,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–21:30",
+    "wtorek: 06:30–21:30",
+    "środa: 06:30–21:30",
+    "czwartek: 06:30–21:30",
+    "piątek: 09:00–21:30",
+    "sobota: 08:30–19:00",
+    "niedziela: 09:00–17:00"
+  ],
+  "classes": [
+    {
+      "name": "Iyengar Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJFZjE6K1bBEcRF_4G-y4167M/ChIJFZjE6K1bBEcRF_4G-y4167M-gallery-1.jpg"
+    },
+    {
+      "name": "Kundalini Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJFZjE6K1bBEcRF_4G-y4167M/ChIJFZjE6K1bBEcRF_4G-y4167M-gallery-2.jpg"
+    },
+    {
+      "name": "Ashtanga Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJFZjE6K1bBEcRF_4G-y4167M/ChIJFZjE6K1bBEcRF_4G-y4167M-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Katarzyna Peka",
+    "Raj Namjot Singh",
+    "Shanti Cecylia Om"
+  ],
+  "singlePrice": null
+}
