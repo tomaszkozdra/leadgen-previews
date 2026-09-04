@@ -1,0 +1,28 @@
+{
+  "leadId": "ChIJFdwPpW6fFkcR68I0gc_lids",
+  "studioName": "Nata Joga-Czas dla siebie",
+  "city": "Bielsko-Biała",
+  "addressLine": "Żywiecka 191",
+  "postalCode": "43-300",
+  "phone": "+48 513 555 214",
+  "primaryColor": "#6e5636",
+  "accentColor": "#a6b465",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJFdwPpW6fFkcR68I0gc_lids/ChIJFdwPpW6fFkcR68I0gc_lids.jpg",
+  "rating": 5,
+  "userRatingCount": 2,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:30",
+    "wtorek: 08:00–20:30",
+    "środa: 08:00–20:30",
+    "czwartek: 08:00–20:30",
+    "piątek: 08:00–20:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Anna Czajkowska",
+    "Natalia Trembla"
+  ],
+  "singlePrice": null
+}
