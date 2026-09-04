@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJXQobwHxZIkcRjW11Rljzcyw",
+  "studioName": "Klasyczny Pilates GYM",
+  "city": "Lublin",
+  "addressLine": "Mariana Dubieckiego 10",
+  "postalCode": "20-737",
+  "phone": "+48 537 169 194",
+  "primaryColor": "#66553d",
+  "accentColor": "#9fa970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJXQobwHxZIkcRjW11Rljzcyw/ChIJXQobwHxZIkcRjW11Rljzcyw.png",
+  "rating": 5,
+  "userRatingCount": 3,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:30",
+    "wtorek: 07:00–21:30",
+    "środa: 07:00–21:30",
+    "czwartek: 07:00–21:30",
+    "piątek: 07:00–21:30",
+    "sobota: 07:00–21:30",
+    "niedziela: 07:00–21:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
