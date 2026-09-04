@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJL8_VFP3DD0cRpCXyi79Mauc",
+  "studioName": "Tiyya Yoga Studio Wrocław",
+  "city": "Wrocław",
+  "addressLine": "Lwowska 38a",
+  "postalCode": "53-516",
+  "phone": null,
+  "primaryColor": "#835920",
+  "accentColor": "#bbd147",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL8_VFP3DD0cRpCXyi79Mauc/ChIJL8_VFP3DD0cRpCXyi79Mauc.jpg",
+  "rating": 5,
+  "userRatingCount": 104,
+  "openingHoursLines": [
+    "poniedziałek: 15:00–21:30",
+    "wtorek: 09:00–21:30",
+    "środa: 15:00–21:30",
+    "czwartek: 15:00–21:30",
+    "piątek: 15:00–20:00",
+    "sobota: 09:00–11:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Jogalates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL8_VFP3DD0cRpCXyi79Mauc/ChIJL8_VFP3DD0cRpCXyi79Mauc-gallery-1.jpg"
+    },
+    {
+      "name": "Aerial Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL8_VFP3DD0cRpCXyi79Mauc/ChIJL8_VFP3DD0cRpCXyi79Mauc-gallery-2.jpg"
+    },
+    {
+      "name": "Yoga Board",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL8_VFP3DD0cRpCXyi79Mauc/ChIJL8_VFP3DD0cRpCXyi79Mauc-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
