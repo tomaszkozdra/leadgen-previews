@@ -1,0 +1,44 @@
+{
+  "leadId": "ChIJBQ_2yM_7PEcRrz6T12icNj8",
+  "studioName": "STUDIO TRENINGU by Justyna Krzysik",
+  "city": "Rzeszów",
+  "addressLine": "Wrzesława Romańczuka 6",
+  "postalCode": "35-302",
+  "phone": "+48 798 388 348",
+  "primaryColor": "#87491d",
+  "accentColor": "#d7d742",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJBQ_2yM_7PEcRrz6T12icNj8/ChIJBQ_2yM_7PEcRrz6T12icNj8.jpg",
+  "rating": 5,
+  "userRatingCount": 28,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–22:00",
+    "wtorek: 07:00–22:00",
+    "środa: 07:00–22:00",
+    "czwartek: 07:00–22:00",
+    "piątek: 07:00–22:00",
+    "sobota: 07:00–12:00",
+    "niedziela: 09:00–10:00"
+  ],
+  "classes": [
+    {
+      "name": "Pilates & Stretching",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJBQ_2yM_7PEcRrz6T12icNj8/ChIJBQ_2yM_7PEcRrz6T12icNj8-gallery-1.jpg"
+    },
+    {
+      "name": "Joga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJBQ_2yM_7PEcRrz6T12icNj8/ChIJBQ_2yM_7PEcRrz6T12icNj8-gallery-2.jpg"
+    },
+    {
+      "name": "Zdrowy Kręgosłup",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJBQ_2yM_7PEcRrz6T12icNj8/ChIJBQ_2yM_7PEcRrz6T12icNj8-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Justyna Krzysik",
+    "Andrzej Rzeszutek",
+    "Katarzyna Goch",
+    "Karolina Kantorek",
+    "Adam Sowa"
+  ],
+  "singlePrice": null
+}
