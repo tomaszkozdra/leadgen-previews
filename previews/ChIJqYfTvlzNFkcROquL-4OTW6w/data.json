@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJqYfTvlzNFkcROquL-4OTW6w",
+  "studioName": "Bamboo Pilates Studio",
+  "city": "Katowice",
+  "addressLine": "Panewnicka 201",
+  "postalCode": "40-772",
+  "phone": "+48 512 129 323",
+  "primaryColor": "#3a5c69",
+  "accentColor": "#6c74ad",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJqYfTvlzNFkcROquL-4OTW6w/ChIJqYfTvlzNFkcROquL-4OTW6w.jpg",
+  "rating": 5,
+  "userRatingCount": 30,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–21:00",
+    "wtorek: 08:30–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 08:30–21:00",
+    "piątek: 08:30–19:30",
+    "sobota: 08:00–12:30",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Trening indywidualny",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJqYfTvlzNFkcROquL-4OTW6w/ChIJqYfTvlzNFkcROquL-4OTW6w-gallery-1.jpg"
+    },
+    {
+      "name": "Trening w duecie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJqYfTvlzNFkcROquL-4OTW6w/ChIJqYfTvlzNFkcROquL-4OTW6w-gallery-2.jpg"
+    },
+    {
+      "name": "Małe grupy",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJqYfTvlzNFkcROquL-4OTW6w/ChIJqYfTvlzNFkcROquL-4OTW6w-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
