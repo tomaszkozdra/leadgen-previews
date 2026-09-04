@@ -1,0 +1,36 @@
+{
+  "leadId": "ChIJCeTdVWNRIkcRRb1RFxOQr0A",
+  "studioName": "Ogród Pilates",
+  "city": "Lublin",
+  "addressLine": "Owocowa 11",
+  "postalCode": "20-140",
+  "phone": "+48 690 960 334",
+  "primaryColor": "#664d3d",
+  "accentColor": "#a9a770",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCeTdVWNRIkcRRb1RFxOQr0A/ChIJCeTdVWNRIkcRRb1RFxOQr0A.jpg",
+  "rating": 4.8,
+  "userRatingCount": 25,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Sesja Indywidualna",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCeTdVWNRIkcRRb1RFxOQr0A/ChIJCeTdVWNRIkcRRb1RFxOQr0A-gallery-1.jpg"
+    },
+    {
+      "name": "Sesja w Duecie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCeTdVWNRIkcRRb1RFxOQr0A/ChIJCeTdVWNRIkcRRb1RFxOQr0A-gallery-2.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Dorota Kretowicz"
+  ],
+  "singlePrice": null
+}
