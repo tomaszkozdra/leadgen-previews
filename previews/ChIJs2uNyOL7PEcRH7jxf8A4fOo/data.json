@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJs2uNyOL7PEcRH7jxf8A4fOo",
+  "studioName": "METHOD STUDIO | Pilates & Longevity | Rzeszów",
+  "city": "Rzeszów",
+  "addressLine": "Podpromie 6",
+  "postalCode": "35-051",
+  "phone": "+48 729 123 900",
+  "primaryColor": "#66523d",
+  "accentColor": "#a3a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJs2uNyOL7PEcRH7jxf8A4fOo/ChIJs2uNyOL7PEcRH7jxf8A4fOo.jpg",
+  "rating": null,
+  "userRatingCount": null,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [
+    {
+      "name": "Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJs2uNyOL7PEcRH7jxf8A4fOo/ChIJs2uNyOL7PEcRH7jxf8A4fOo-gallery-1.jpg"
+    },
+    {
+      "name": "Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJs2uNyOL7PEcRH7jxf8A4fOo/ChIJs2uNyOL7PEcRH7jxf8A4fOo-gallery-2.jpg"
+    },
+    {
+      "name": "Barre",
+      "imageUrl": null
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
