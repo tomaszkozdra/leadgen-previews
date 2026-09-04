@@ -1,0 +1,40 @@
+{
+  "leadId": "ChIJ0dAiz3b7PEcRRFVWZcEF2VI",
+  "studioName": "Pilates FITHOUSE Rzeszów | ciąża i po porodzie | zdrowy kręgosłup",
+  "city": "Rzeszów",
+  "addressLine": "Kościelna 2A",
+  "postalCode": "35-505",
+  "phone": "+48 667 425 934",
+  "primaryColor": "#664f3d",
+  "accentColor": "#a8a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0dAiz3b7PEcRRFVWZcEF2VI/ChIJ0dAiz3b7PEcRRFVWZcEF2VI.jpg",
+  "rating": 5,
+  "userRatingCount": 23,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–11:30, 16:30–19:00",
+    "wtorek: 09:00–11:30, 16:30–19:30",
+    "środa: 09:00–11:30, 16:30–19:30",
+    "czwartek: 09:00–11:30, 16:30–19:00",
+    "piątek: 09:00–11:30, 16:30–19:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0dAiz3b7PEcRRFVWZcEF2VI/ChIJ0dAiz3b7PEcRRFVWZcEF2VI-gallery-1.jpg"
+    },
+    {
+      "name": "Pilates w ciąży",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0dAiz3b7PEcRRFVWZcEF2VI/ChIJ0dAiz3b7PEcRRFVWZcEF2VI-gallery-2.jpg"
+    },
+    {
+      "name": "Pilates po porodzie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0dAiz3b7PEcRRFVWZcEF2VI/ChIJ0dAiz3b7PEcRRFVWZcEF2VI-gallery-3.png"
+    }
+  ],
+  "instructorNames": [
+    "Anna Wojtera"
+  ],
+  "singlePrice": null
+}
