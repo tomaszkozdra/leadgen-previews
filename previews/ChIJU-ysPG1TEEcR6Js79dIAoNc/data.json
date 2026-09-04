@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJU-ysPG1TEEcR6Js79dIAoNc",
+  "studioName": "Naturalna Harmonia",
+  "city": "Opole",
+  "addressLine": "Oleska 115",
+  "postalCode": "45-231",
+  "phone": "+48 505 413 341",
+  "primaryColor": "#66513d",
+  "accentColor": "#a5a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJU-ysPG1TEEcR6Js79dIAoNc/ChIJU-ysPG1TEEcR6Js79dIAoNc.jpg",
+  "rating": 4.8,
+  "userRatingCount": 17,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–17:00",
+    "wtorek: 09:00–17:00",
+    "środa: 09:00–17:00",
+    "czwartek: 09:00–17:00",
+    "piątek: 09:00–17:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
