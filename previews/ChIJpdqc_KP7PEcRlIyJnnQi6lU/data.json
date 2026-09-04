@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJpdqc_KP7PEcRlIyJnnQi6lU",
+  "studioName": "Polka Pilates Rzeszów",
+  "city": "Rzeszów",
+  "addressLine": "Urocza 75",
+  "postalCode": "35-312",
+  "phone": "+48 577 677 700",
+  "primaryColor": "#69533b",
+  "accentColor": "#a5ad6c",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJpdqc_KP7PEcRlIyJnnQi6lU/ChIJpdqc_KP7PEcRlIyJnnQi6lU.jpg",
+  "rating": 5,
+  "userRatingCount": 65,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–13:00, 16:00–20:00",
+    "wtorek: 07:00–12:00, 18:00–21:00",
+    "środa: 07:00–12:00, 16:00–20:00",
+    "czwartek: 07:00–12:00, 16:00–21:00",
+    "piątek: 07:00–12:00, 17:00–21:00",
+    "sobota: 09:00–11:00",
+    "niedziela: 09:00–11:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
