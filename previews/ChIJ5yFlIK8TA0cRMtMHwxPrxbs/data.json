@@ -1,0 +1,40 @@
+{
+  "leadId": "ChIJ5yFlIK8TA0cRMtMHwxPrxbs",
+  "studioName": "Pilates Art Bydgoszcz",
+  "city": "Bydgoszcz",
+  "addressLine": "Gdańska 92",
+  "postalCode": "85-021",
+  "phone": "+48 512 657 441",
+  "primaryColor": "#78472c",
+  "accentColor": "#c2bc57",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ5yFlIK8TA0cRMtMHwxPrxbs/ChIJ5yFlIK8TA0cRMtMHwxPrxbs.jpg",
+  "rating": 5,
+  "userRatingCount": 181,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:30",
+    "wtorek: 07:30–20:30",
+    "środa: 07:30–20:30",
+    "czwartek: 07:30–21:00",
+    "piątek: 08:30–18:30",
+    "sobota: 09:00–14:00, 18:00–19:00",
+    "niedziela: 08:00–15:00"
+  ],
+  "classes": [
+    {
+      "name": "Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ5yFlIK8TA0cRMtMHwxPrxbs/ChIJ5yFlIK8TA0cRMtMHwxPrxbs-gallery-1.jpg"
+    },
+    {
+      "name": "Tower",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ5yFlIK8TA0cRMtMHwxPrxbs/ChIJ5yFlIK8TA0cRMtMHwxPrxbs-gallery-2.jpg"
+    },
+    {
+      "name": "Mata",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ5yFlIK8TA0cRMtMHwxPrxbs/ChIJ5yFlIK8TA0cRMtMHwxPrxbs-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Kaja Słomczyńska"
+  ],
+  "singlePrice": null
+}
