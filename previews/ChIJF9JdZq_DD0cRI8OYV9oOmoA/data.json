@@ -1,0 +1,37 @@
+{
+  "leadId": "ChIJF9JdZq_DD0cRI8OYV9oOmoA",
+  "studioName": "Przestrzeń Joga",
+  "city": "Wrocław",
+  "addressLine": "Biskupia 10A",
+  "postalCode": "50-148",
+  "phone": "+48 695 223 682",
+  "primaryColor": "#664e3d",
+  "accentColor": "#a9a870",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJF9JdZq_DD0cRI8OYV9oOmoA/ChIJF9JdZq_DD0cRI8OYV9oOmoA.jpg",
+  "rating": 5,
+  "userRatingCount": 70,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–20:30",
+    "wtorek: 07:00–20:30",
+    "środa: 07:00–20:30",
+    "czwartek: 07:00–20:30",
+    "piątek: 07:00–20:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Joga dla wszystkich",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJF9JdZq_DD0cRI8OYV9oOmoA/ChIJF9JdZq_DD0cRI8OYV9oOmoA-gallery-1.jpg"
+    },
+    {
+      "name": "Joga dla początkujących",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJF9JdZq_DD0cRI8OYV9oOmoA/ChIJF9JdZq_DD0cRI8OYV9oOmoA-gallery-2.png"
+    }
+  ],
+  "instructorNames": [
+    "Natalia",
+    "Paulina"
+  ],
+  "singlePrice": null
+}
