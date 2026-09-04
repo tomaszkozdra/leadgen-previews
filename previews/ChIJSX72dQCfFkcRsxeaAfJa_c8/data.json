@@ -1,0 +1,37 @@
+{
+  "leadId": "ChIJSX72dQCfFkcRsxeaAfJa_c8",
+  "studioName": "Przestrzeń Jogi w Bielsku- Białej",
+  "city": "Bielsko-Biała",
+  "addressLine": "Żywiecka 191",
+  "postalCode": "43-300",
+  "phone": "+48 513 555 214",
+  "primaryColor": "#664f3d",
+  "accentColor": "#a8a96f",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJSX72dQCfFkcRsxeaAfJa_c8/ChIJSX72dQCfFkcRsxeaAfJa_c8.jpg",
+  "rating": null,
+  "userRatingCount": null,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Sesje medytacji i pranajamy",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJSX72dQCfFkcRsxeaAfJa_c8/ChIJSX72dQCfFkcRsxeaAfJa_c8-gallery-1.jpg"
+    },
+    {
+      "name": "Joga indywidualna i grupowa",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJSX72dQCfFkcRsxeaAfJa_c8/ChIJSX72dQCfFkcRsxeaAfJa_c8-gallery-2.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Marzena Nikiel",
+    "Natalia Trembla"
+  ],
+  "singlePrice": null
+}
