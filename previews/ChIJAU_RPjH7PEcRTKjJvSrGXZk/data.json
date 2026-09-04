@@ -1,0 +1,36 @@
+{
+  "leadId": "ChIJAU_RPjH7PEcRTKjJvSrGXZk",
+  "studioName": "Fabryka Ruchu Studio Treningu Personalnego Dominika Rączy-Molęda",
+  "city": "Rzeszów",
+  "addressLine": "Boya-Żeleńskiego 2",
+  "postalCode": "35-105",
+  "phone": "+48 733 361 901",
+  "primaryColor": "#674c3c",
+  "accentColor": "#aba86e",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJAU_RPjH7PEcRTKjJvSrGXZk/ChIJAU_RPjH7PEcRTKjJvSrGXZk.jpg",
+  "rating": 5,
+  "userRatingCount": 96,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Pilates na macie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJAU_RPjH7PEcRTKjJvSrGXZk/ChIJAU_RPjH7PEcRTKjJvSrGXZk-gallery-1.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Dominika Rączy Molęda",
+    "Monika Ślimak",
+    "Irmina Strzyżowska",
+    "Ania Ożóg",
+    "Maciej Dziupiński"
+  ],
+  "singlePrice": null
+}
