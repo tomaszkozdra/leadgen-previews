@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJg-uWyg_CD0cRoSz_T9FqOCo",
+  "studioName": "Drzewo życia",
+  "city": "Wrocław",
+  "addressLine": "Tęczowa 57",
+  "postalCode": "53-601",
+  "phone": "+48 505 071 234",
+  "primaryColor": "#66433d",
+  "accentColor": "#a99a70",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJg-uWyg_CD0cRoSz_T9FqOCo/ChIJg-uWyg_CD0cRoSz_T9FqOCo.jpg",
+  "rating": 4.7,
+  "userRatingCount": 116,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–21:00",
+    "niedziela: 07:00–21:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
