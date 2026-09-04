@@ -1,0 +1,41 @@
+{
+  "leadId": "ChIJPyxRMie1EEcRMdlBO9Gh9F4",
+  "studioName": "Harmonia Ciała Aleje",
+  "city": "Częstochowa",
+  "addressLine": "Aleja Najświętszej Maryi Panny 12b",
+  "postalCode": "42-202",
+  "phone": "+48 693 866 882",
+  "primaryColor": "#3d6648",
+  "accentColor": "#70a9a0",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJPyxRMie1EEcRMdlBO9Gh9F4/ChIJPyxRMie1EEcRMdlBO9Gh9F4.jpg",
+  "rating": 4.9,
+  "userRatingCount": 52,
+  "openingHoursLines": [
+    "poniedziałek: 17:00–21:00",
+    "wtorek: 09:30–12:00, 15:00–20:00",
+    "środa: 17:00–20:00",
+    "czwartek: 15:00–21:00",
+    "piątek: 16:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: 10:00–12:00"
+  ],
+  "classes": [
+    {
+      "name": "Vinyasa Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJPyxRMie1EEcRMdlBO9Gh9F4/ChIJPyxRMie1EEcRMdlBO9Gh9F4-gallery-1.jpg"
+    },
+    {
+      "name": "Wake up Pilates flow",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJPyxRMie1EEcRMdlBO9Gh9F4/ChIJPyxRMie1EEcRMdlBO9Gh9F4-gallery-2.jpg"
+    },
+    {
+      "name": "Kick & Stretch",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJPyxRMie1EEcRMdlBO9Gh9F4/ChIJPyxRMie1EEcRMdlBO9Gh9F4-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Paulina Gładysz",
+    "Ania Gałązka"
+  ],
+  "singlePrice": null
+}
