@@ -1,0 +1,29 @@
+{
+  "leadId": "ChIJB351MwD7PEcRPTQGt3B5nbU",
+  "studioName": "Bez Limitu studio treningowe",
+  "city": "Rzeszów",
+  "addressLine": "Wincentego Pola 15",
+  "postalCode": "35-021",
+  "phone": "+48 664 657 430",
+  "primaryColor": "#6d4836",
+  "accentColor": "#b3ab66",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJB351MwD7PEcRPTQGt3B5nbU/ChIJB351MwD7PEcRPTQGt3B5nbU.jpg",
+  "rating": 5,
+  "userRatingCount": 82,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 11:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Wiktoria",
+    "Sławek",
+    "Krzysiek"
+  ],
+  "singlePrice": null
+}
