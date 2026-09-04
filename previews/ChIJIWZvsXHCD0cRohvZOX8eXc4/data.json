@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJIWZvsXHCD0cRohvZOX8eXc4",
+  "studioName": "Manomani - szkoła jogi & pilates",
+  "city": "Wrocław",
+  "addressLine": "Tadeusza Kościuszki 34",
+  "postalCode": "50-012",
+  "phone": "+48 607 608 639",
+  "primaryColor": "#66503d",
+  "accentColor": "#a7a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJIWZvsXHCD0cRohvZOX8eXc4/ChIJIWZvsXHCD0cRohvZOX8eXc4.jpg",
+  "rating": 4.9,
+  "userRatingCount": 92,
+  "openingHoursLines": [
+    "poniedziałek: 17:00–20:00",
+    "wtorek: 17:30–20:30",
+    "środa: 10:00–20:00",
+    "czwartek: 17:30–20:30",
+    "piątek: 17:00–19:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Joga wg przekazu Iyengara",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJIWZvsXHCD0cRohvZOX8eXc4/ChIJIWZvsXHCD0cRohvZOX8eXc4-gallery-1.jpg"
+    },
+    {
+      "name": "Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJIWZvsXHCD0cRohvZOX8eXc4/ChIJIWZvsXHCD0cRohvZOX8eXc4-gallery-2.jpg"
+    },
+    {
+      "name": "Trening personalny",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJIWZvsXHCD0cRohvZOX8eXc4/ChIJIWZvsXHCD0cRohvZOX8eXc4-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
