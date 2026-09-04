@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJiQhW08P7PEcRskIg3hCSIDA",
+  "studioName": "Pieski Yoga | Czyli najsłodsza Puppy Yoga w Rzeszowie",
+  "city": "Rzeszów",
+  "addressLine": "Stanisława Moniuszki 2",
+  "postalCode": "35-303",
+  "phone": "+48 532 303 696",
+  "primaryColor": "#3c4667",
+  "accentColor": "#836faa",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJiQhW08P7PEcRskIg3hCSIDA/ChIJiQhW08P7PEcRskIg3hCSIDA.jpg",
+  "rating": 4.9,
+  "userRatingCount": 43,
+  "openingHoursLines": [
+    "poniedziałek: 10:00–18:00",
+    "wtorek: 10:00–18:00",
+    "środa: 10:00–18:00",
+    "czwartek: 10:00–18:00",
+    "piątek: 10:00–18:00",
+    "sobota: 10:00–18:00",
+    "niedziela: 10:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
