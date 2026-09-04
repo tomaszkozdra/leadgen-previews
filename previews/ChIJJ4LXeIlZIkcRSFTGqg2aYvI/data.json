@@ -1,0 +1,30 @@
+{
+  "leadId": "ChIJJ4LXeIlZIkcRSFTGqg2aYvI",
+  "studioName": "Vivante",
+  "city": "Lublin",
+  "addressLine": "Agatowa 5",
+  "postalCode": "20-571",
+  "phone": "+48 602 830 098",
+  "primaryColor": "#66563d",
+  "accentColor": "#9ea970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJJ4LXeIlZIkcRSFTGqg2aYvI/ChIJJ4LXeIlZIkcRSFTGqg2aYvI.jpg",
+  "rating": 5,
+  "userRatingCount": 32,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Pole Dance",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJJ4LXeIlZIkcRSFTGqg2aYvI/ChIJJ4LXeIlZIkcRSFTGqg2aYvI-gallery-1.jpg"
+    },
+    {
+      "name": "Fly Yoga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJJ4LXeIlZIkcRSFTGqg2aYvI/ChIJJ4LXeIlZIkcRSFTGqg2aYvI-gallery-2.jpg"
+    },
+    {
+      "name": "Shuffle Dance",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJJ4LXeIlZIkcRSFTGqg2aYvI/ChIJJ4LXeIlZIkcRSFTGqg2aYvI-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
