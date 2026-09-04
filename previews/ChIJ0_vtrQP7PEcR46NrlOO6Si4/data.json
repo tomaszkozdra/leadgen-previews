@@ -1,0 +1,32 @@
+{
+  "leadId": "ChIJ0_vtrQP7PEcR46NrlOO6Si4",
+  "studioName": "Kasia Twardzik pilates & therapy fitness",
+  "city": "Rzeszów",
+  "addressLine": "Romualda Traugutta 29",
+  "postalCode": "35-321",
+  "phone": "+48 693 240 018",
+  "primaryColor": "#735330",
+  "accentColor": "#b2bc5d",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0_vtrQP7PEcR46NrlOO6Si4/ChIJ0_vtrQP7PEcR46NrlOO6Si4.jpg",
+  "rating": 5,
+  "userRatingCount": 24,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Pilates Advanced Level – Matwork",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0_vtrQP7PEcR46NrlOO6Si4/ChIJ0_vtrQP7PEcR46NrlOO6Si4-gallery-1.jpg"
+    },
+    {
+      "name": "OM Pilates Pelvic Power",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0_vtrQP7PEcR46NrlOO6Si4/ChIJ0_vtrQP7PEcR46NrlOO6Si4-gallery-2.jpg"
+    },
+    {
+      "name": "Reformer I",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0_vtrQP7PEcR46NrlOO6Si4/ChIJ0_vtrQP7PEcR46NrlOO6Si4-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Kasia Twardzik"
+  ],
+  "singlePrice": null
+}
