@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJDUWGB9mhFkcRvGq7KYd1Vqs",
+  "studioName": "Szkoła Jogi \"Shanti\"",
+  "city": "Bielsko-Biała",
+  "addressLine": "Żółkiewskiego 16A",
+  "postalCode": "43-300",
+  "phone": "+48 791 551 808",
+  "primaryColor": "#46871d",
+  "accentColor": "#42d75e",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJDUWGB9mhFkcRvGq7KYd1Vqs/ChIJDUWGB9mhFkcRvGq7KYd1Vqs.jpg",
+  "rating": 5,
+  "userRatingCount": 47,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 09:00–10:30",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
