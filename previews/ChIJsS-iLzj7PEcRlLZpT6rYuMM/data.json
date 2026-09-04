@@ -1,0 +1,40 @@
+{
+  "leadId": "ChIJsS-iLzj7PEcRlLZpT6rYuMM",
+  "studioName": "CZARUJĄCA Studio Pilatesu i Stretchingu Rzeszów",
+  "city": "Rzeszów",
+  "addressLine": "plac Wolności 2",
+  "postalCode": "35-073",
+  "phone": "+48 515 222 498",
+  "primaryColor": "#66543d",
+  "accentColor": "#a1a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJsS-iLzj7PEcRlLZpT6rYuMM/ChIJsS-iLzj7PEcRlLZpT6rYuMM.jpg",
+  "rating": 5,
+  "userRatingCount": 97,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–20:00",
+    "wtorek: 09:00–20:00",
+    "środa: 09:00–20:00",
+    "czwartek: 09:00–20:00",
+    "piątek: 09:00–20:00",
+    "sobota: 09:00–20:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Pilates na macie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJsS-iLzj7PEcRlLZpT6rYuMM/ChIJsS-iLzj7PEcRlLZpT6rYuMM-gallery-1.jpg"
+    },
+    {
+      "name": "Stretching na macie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJsS-iLzj7PEcRlLZpT6rYuMM/ChIJsS-iLzj7PEcRlLZpT6rYuMM-gallery-2.jpg"
+    },
+    {
+      "name": "Pilates na reformerach",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJsS-iLzj7PEcRlLZpT6rYuMM/ChIJsS-iLzj7PEcRlLZpT6rYuMM-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Ksenia"
+  ],
+  "singlePrice": null
+}
