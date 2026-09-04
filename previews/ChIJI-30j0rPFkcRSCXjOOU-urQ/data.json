@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJI-30j0rPFkcRSCXjOOU-urQ",
+  "studioName": "Polka Pilates Katowice - Studio Pilates Reformer",
+  "city": "Katowice",
+  "addressLine": "poziom 0",
+  "postalCode": "40-007",
+  "phone": "+48 733 459 933",
+  "primaryColor": "#68503b",
+  "accentColor": "#a9ac6d",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJI-30j0rPFkcRSCXjOOU-urQ/ChIJI-30j0rPFkcRSCXjOOU-urQ.jpg",
+  "rating": 5,
+  "userRatingCount": 28,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–20:00",
+    "wtorek: 07:00–20:00",
+    "środa: 07:00–20:00",
+    "czwartek: 07:00–20:00",
+    "piątek: 07:00–20:00",
+    "sobota: 07:00–20:00",
+    "niedziela: 07:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
