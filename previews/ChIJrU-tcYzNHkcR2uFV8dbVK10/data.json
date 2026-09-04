@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJrU-tcYzNHkcR2uFV8dbVK10",
+  "studioName": "Polka Pilates",
+  "city": "Warszawa",
+  "addressLine": "Koszykowa 33",
+  "postalCode": "00-553",
+  "phone": null,
+  "primaryColor": "#664c3d",
+  "accentColor": "#a9a570",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJrU-tcYzNHkcR2uFV8dbVK10/ChIJrU-tcYzNHkcR2uFV8dbVK10.jpg",
+  "rating": 4.8,
+  "userRatingCount": 172,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–21:00",
+    "niedziela: 09:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
