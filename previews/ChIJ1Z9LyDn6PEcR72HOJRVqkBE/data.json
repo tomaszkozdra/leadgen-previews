@@ -1,0 +1,44 @@
+{
+  "leadId": "ChIJ1Z9LyDn6PEcR72HOJRVqkBE",
+  "studioName": "Pilates Rzeszów Pilatesownia Małgorzata Dykman-Walicka",
+  "city": "Rzeszów",
+  "addressLine": "Ignacego Łukasiewicza 37A",
+  "postalCode": "35-604",
+  "phone": "+48 531 415 889",
+  "primaryColor": "#66473d",
+  "accentColor": "#a99f70",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ1Z9LyDn6PEcR72HOJRVqkBE/ChIJ1Z9LyDn6PEcR72HOJRVqkBE.jpg",
+  "rating": 4.9,
+  "userRatingCount": 82,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ1Z9LyDn6PEcR72HOJRVqkBE/ChIJ1Z9LyDn6PEcR72HOJRVqkBE-gallery-1.jpg"
+    },
+    {
+      "name": "Gyrotonic",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ1Z9LyDn6PEcR72HOJRVqkBE/ChIJ1Z9LyDn6PEcR72HOJRVqkBE-gallery-2.jpg"
+    },
+    {
+      "name": "Trening hipopresyjny",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ1Z9LyDn6PEcR72HOJRVqkBE/ChIJ1Z9LyDn6PEcR72HOJRVqkBE-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Małgorzata Dykman Walicka",
+    "Grzegorz Pelczar",
+    "Monika Bauer",
+    "Sonia Podmiotko",
+    "Milena Mordec"
+  ],
+  "singlePrice": null
+}
