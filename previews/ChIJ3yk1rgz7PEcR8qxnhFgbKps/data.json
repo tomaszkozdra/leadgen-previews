@@ -1,0 +1,43 @@
+{
+  "leadId": "ChIJ3yk1rgz7PEcR8qxnhFgbKps",
+  "studioName": "Empower Pilates Rzeszów",
+  "city": "Rzeszów",
+  "addressLine": "Ignacego Paderewskiego 43a",
+  "postalCode": "35-328",
+  "phone": "+48 886 841 543",
+  "primaryColor": "#3d5766",
+  "accentColor": "#7072a9",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ3yk1rgz7PEcR8qxnhFgbKps/ChIJ3yk1rgz7PEcR8qxnhFgbKps.png",
+  "rating": 5,
+  "userRatingCount": 38,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–11:00, 17:00–21:00",
+    "wtorek: 08:00–11:00, 17:00–21:00",
+    "środa: 08:00–11:00, 17:00–21:00",
+    "czwartek: 08:00–11:00, 17:00–21:00",
+    "piątek: 08:00–11:00, 17:00–21:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Zajęcia Startowe",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ3yk1rgz7PEcR8qxnhFgbKps/ChIJ3yk1rgz7PEcR8qxnhFgbKps-gallery-1.jpg"
+    },
+    {
+      "name": "Reformer Core",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ3yk1rgz7PEcR8qxnhFgbKps/ChIJ3yk1rgz7PEcR8qxnhFgbKps-gallery-2.jpg"
+    },
+    {
+      "name": "EMPowerJUMP",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ3yk1rgz7PEcR8qxnhFgbKps/ChIJ3yk1rgz7PEcR8qxnhFgbKps-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Marcin Manelski",
+    "Wiktoria Szetela",
+    "Aleksandra Para",
+    "Daria Bisto"
+  ],
+  "singlePrice": null
+}
