@@ -1,0 +1,29 @@
+{
+  "leadId": "ChIJ8-oGy3D7PEcRO44jXA2vFDU",
+  "studioName": "FitStudio Rzeszów",
+  "city": "Rzeszów",
+  "addressLine": "Błogosławionej Karoliny 5",
+  "postalCode": "35-505",
+  "phone": "+48 531 327 287",
+  "primaryColor": "#7b4228",
+  "accentColor": "#c7ba52",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ8-oGy3D7PEcRO44jXA2vFDU/ChIJ8-oGy3D7PEcRO44jXA2vFDU.jpg",
+  "rating": 4.9,
+  "userRatingCount": 170,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Monika Smykla",
+    "Joanna Kudła",
+    "Agnieszka Worek"
+  ],
+  "singlePrice": null
+}
