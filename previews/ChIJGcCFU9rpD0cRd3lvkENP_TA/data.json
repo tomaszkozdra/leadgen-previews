@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJGcCFU9rpD0cRd3lvkENP_TA",
+  "studioName": "Abhaya - Studio Jogi",
+  "city": "Wrocław",
+  "addressLine": "Jedności Narodowej 228",
+  "postalCode": "50-304",
+  "phone": "+48 791 401 394",
+  "primaryColor": "#3d5566",
+  "accentColor": "#7070a9",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJGcCFU9rpD0cRd3lvkENP_TA/ChIJGcCFU9rpD0cRd3lvkENP_TA.jpg",
+  "rating": 4.9,
+  "userRatingCount": 57,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–10:30, 17:00–21:30",
+    "wtorek: 17:00–21:30",
+    "środa: 09:00–10:30, 17:00–21:30",
+    "czwartek: 17:00–21:30",
+    "piątek: 09:00–10:30, 18:45–20:00",
+    "sobota: 09:00–10:30",
+    "niedziela: 09:00–12:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
