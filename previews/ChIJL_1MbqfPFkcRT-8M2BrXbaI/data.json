@@ -1,0 +1,40 @@
+{
+  "leadId": "ChIJL_1MbqfPFkcRT-8M2BrXbaI",
+  "studioName": "Pro Pilates Reformer Studio",
+  "city": "Katowice",
+  "addressLine": "Brynowska 80",
+  "postalCode": "40-584",
+  "phone": "+48 790 510 907",
+  "primaryColor": "#314872",
+  "accentColor": "#745eba",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL_1MbqfPFkcRT-8M2BrXbaI/ChIJL_1MbqfPFkcRT-8M2BrXbaI.jpg",
+  "rating": 5,
+  "userRatingCount": 39,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–20:30",
+    "wtorek: 08:30–20:30",
+    "środa: 08:30–20:30",
+    "czwartek: 08:30–20:30",
+    "piątek: 08:30–20:30",
+    "sobota: 08:30–11:30",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Pilates INTRO",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL_1MbqfPFkcRT-8M2BrXbaI/ChIJL_1MbqfPFkcRT-8M2BrXbaI-gallery-1.jpg"
+    },
+    {
+      "name": "Pilates FLOW 1",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL_1MbqfPFkcRT-8M2BrXbaI/ChIJL_1MbqfPFkcRT-8M2BrXbaI-gallery-2.png"
+    },
+    {
+      "name": "Pilates FLOW 2",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJL_1MbqfPFkcRT-8M2BrXbaI/ChIJL_1MbqfPFkcRT-8M2BrXbaI-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Anna Huchel"
+  ],
+  "singlePrice": null
+}
