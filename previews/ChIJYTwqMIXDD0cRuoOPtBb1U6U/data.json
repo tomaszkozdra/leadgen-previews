@@ -1,0 +1,40 @@
+{
+  "leadId": "ChIJYTwqMIXDD0cRuoOPtBb1U6U",
+  "studioName": "Pilatesfera",
+  "city": "Wrocław",
+  "addressLine": "Kuźnicza 48",
+  "postalCode": "50-138",
+  "phone": "+48 519 037 478",
+  "primaryColor": "#68523c",
+  "accentColor": "#a5ab6d",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYTwqMIXDD0cRuoOPtBb1U6U/ChIJYTwqMIXDD0cRuoOPtBb1U6U.jpg",
+  "rating": 5,
+  "userRatingCount": 36,
+  "openingHoursLines": [
+    "poniedziałek: Zamknięte",
+    "wtorek: 17:00–20:00",
+    "środa: Zamknięte",
+    "czwartek: Zamknięte",
+    "piątek: 08:30–23:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Reformer Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYTwqMIXDD0cRuoOPtBb1U6U/ChIJYTwqMIXDD0cRuoOPtBb1U6U-gallery-1.jpg"
+    },
+    {
+      "name": "Mat Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYTwqMIXDD0cRuoOPtBb1U6U/ChIJYTwqMIXDD0cRuoOPtBb1U6U-gallery-2.jpg"
+    },
+    {
+      "name": "Stretch & Flow",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYTwqMIXDD0cRuoOPtBb1U6U/ChIJYTwqMIXDD0cRuoOPtBb1U6U-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Julia"
+  ],
+  "singlePrice": null
+}
