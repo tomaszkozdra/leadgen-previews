@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJizqHx4hbBEcRqKxt4g6CufI",
+  "studioName": "Polka Pilates Garbary",
+  "city": "Poznań",
+  "addressLine": "Bóżnicza 2",
+  "postalCode": "61-752",
+  "phone": "+48 691 293 008",
+  "primaryColor": "#6c4c37",
+  "accentColor": "#b2b067",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJizqHx4hbBEcRqKxt4g6CufI/ChIJizqHx4hbBEcRqKxt4g6CufI.jpg",
+  "rating": 4.5,
+  "userRatingCount": 16,
+  "openingHoursLines": [
+    "poniedziałek: 16:00–20:00",
+    "wtorek: 07:00–09:00, 16:00–20:00",
+    "środa: 08:00–11:00, 18:00–20:00",
+    "czwartek: 09:00–11:00, 17:00–19:00",
+    "piątek: 08:00–11:00",
+    "sobota: 11:00–13:00",
+    "niedziela: 10:00–13:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
