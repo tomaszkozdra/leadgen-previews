@@ -1,0 +1,36 @@
+{
+  "leadId": "ChIJoRSGOUhaFkcRXQPEl9wMDow",
+  "studioName": "The One Pilates Studio",
+  "city": "Kraków",
+  "addressLine": "Gdyńska 21",
+  "postalCode": "31-323",
+  "phone": "+48 662 088 411",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJoRSGOUhaFkcRXQPEl9wMDow/ChIJoRSGOUhaFkcRXQPEl9wMDow.jpg",
+  "rating": 4.9,
+  "userRatingCount": 38,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Zajęcia grupowe pilates na matach",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJoRSGOUhaFkcRXQPEl9wMDow/ChIJoRSGOUhaFkcRXQPEl9wMDow-gallery-1.jpg"
+    },
+    {
+      "name": "Reformer",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJoRSGOUhaFkcRXQPEl9wMDow/ChIJoRSGOUhaFkcRXQPEl9wMDow-gallery-2.jpg"
+    },
+    {
+      "name": "Combo chair",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJoRSGOUhaFkcRXQPEl9wMDow/ChIJoRSGOUhaFkcRXQPEl9wMDow-gallery-3.jpg"
+    },
+    {
+      "name": "Allegro tower",
+      "imageUrl": null
+    }
+  ],
+  "instructorNames": [
+    "Anna Lazarowicz"
+  ],
+  "singlePrice": null
+}
