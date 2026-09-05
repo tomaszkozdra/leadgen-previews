@@ -1,0 +1,32 @@
+{
+  "leadId": "ChIJU3vFg0JbFkcRfuARiSXCDJs",
+  "studioName": "Flow Studio Pilates",
+  "city": "Kraków",
+  "addressLine": "Krakowska 49",
+  "postalCode": "33-332",
+  "phone": "+48 608 577 789",
+  "primaryColor": "#824521",
+  "accentColor": "#d1cb48",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJU3vFg0JbFkcRfuARiSXCDJs/ChIJU3vFg0JbFkcRfuARiSXCDJs.jpg",
+  "rating": 5,
+  "userRatingCount": 12,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "MK Pilates Matwork",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJU3vFg0JbFkcRfuARiSXCDJs/ChIJU3vFg0JbFkcRfuARiSXCDJs-gallery-1.jpg"
+    },
+    {
+      "name": "MK Pilates Reformer",
+      "imageUrl": null
+    },
+    {
+      "name": "MK Pilates Wunda Chair",
+      "imageUrl": null
+    }
+  ],
+  "instructorNames": [
+    "Basia"
+  ],
+  "singlePrice": null
+}
