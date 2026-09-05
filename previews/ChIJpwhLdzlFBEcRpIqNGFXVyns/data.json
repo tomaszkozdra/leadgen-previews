@@ -1,0 +1,30 @@
+{
+  "leadId": "ChIJpwhLdzlFBEcRpIqNGFXVyns",
+  "studioName": "my pilates space",
+  "city": "Poznań",
+  "addressLine": "Grottgera 3",
+  "postalCode": "60-757",
+  "phone": "+48 662 702 020",
+  "primaryColor": "#664e3d",
+  "accentColor": "#a9a870",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJpwhLdzlFBEcRpIqNGFXVyns/ChIJpwhLdzlFBEcRpIqNGFXVyns.jpg",
+  "rating": 4.7,
+  "userRatingCount": 22,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 09:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Joanna Gratkowska",
+    "Anna Skowrońska",
+    "Karina Adamczak Kasprzak",
+    "Aleksandra Giel"
+  ],
+  "singlePrice": null
+}
