@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJs123BXkJqkcRbUcsU3TRFRg",
+  "studioName": "Pieski Yoga I Najsłodsza puppy yoga w Szczecinie",
+  "city": "Szczecin",
+  "addressLine": "Szczecińska 24B",
+  "postalCode": "71-786",
+  "phone": "+48 532 303 696",
+  "primaryColor": "#2f4e74",
+  "accentColor": "#695cbc",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJs123BXkJqkcRbUcsU3TRFRg/ChIJs123BXkJqkcRbUcsU3TRFRg.jpg",
+  "rating": 5,
+  "userRatingCount": 18,
+  "openingHoursLines": [
+    "poniedziałek: 10:00–18:00",
+    "wtorek: 10:00–18:00",
+    "środa: 10:00–18:00",
+    "czwartek: 10:00–18:00",
+    "piątek: 10:00–18:00",
+    "sobota: 10:00–18:00",
+    "niedziela: 10:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
