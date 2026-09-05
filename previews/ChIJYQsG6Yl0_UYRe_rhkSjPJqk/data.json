@@ -1,0 +1,32 @@
+{
+  "leadId": "ChIJYQsG6Yl0_UYRe_rhkSjPJqk",
+  "studioName": "Kameralne Studio Jogi",
+  "city": "Gdańsk",
+  "addressLine": "Piecewska 10",
+  "postalCode": "80-172",
+  "phone": "+48 796 094 571",
+  "primaryColor": "#664b3d",
+  "accentColor": "#a9a570",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYQsG6Yl0_UYRe_rhkSjPJqk/ChIJYQsG6Yl0_UYRe_rhkSjPJqk.jpg",
+  "rating": 4.7,
+  "userRatingCount": 38,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Zdrowy Kręgosłup",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYQsG6Yl0_UYRe_rhkSjPJqk/ChIJYQsG6Yl0_UYRe_rhkSjPJqk-gallery-1.jpg"
+    },
+    {
+      "name": "Pilates",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYQsG6Yl0_UYRe_rhkSjPJqk/ChIJYQsG6Yl0_UYRe_rhkSjPJqk-gallery-2.jpg"
+    },
+    {
+      "name": "Joga śmiechu",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJYQsG6Yl0_UYRe_rhkSjPJqk/ChIJYQsG6Yl0_UYRe_rhkSjPJqk-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Sylwia Rutkowska"
+  ],
+  "singlePrice": null
+}
