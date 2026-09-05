@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJpygfGGlbFkcRe5WuyuYeFTw",
+  "studioName": "Polka Pilates Kraków",
+  "city": "Kraków",
+  "addressLine": "Aleja Marszałka Ferdynanda Focha 27",
+  "postalCode": "30-119",
+  "phone": "+48 724 669 966",
+  "primaryColor": "#81224b",
+  "accentColor": "#cf5d49",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJpygfGGlbFkcRe5WuyuYeFTw/ChIJpygfGGlbFkcRe5WuyuYeFTw.jpg",
+  "rating": 4.8,
+  "userRatingCount": 96,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 08:00–20:00",
+    "sobota: 08:00–20:00",
+    "niedziela: 10:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
