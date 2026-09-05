@@ -1,0 +1,27 @@
+{
+  "leadId": "ChIJfSJWoIsLqkcRbKz11lQdkfI",
+  "studioName": "Olala Yoga & Pilates",
+  "city": "Szczecin",
+  "addressLine": "Morenowa 18",
+  "postalCode": "71-784",
+  "phone": null,
+  "primaryColor": "#6c782c",
+  "accentColor": "#74c257",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJfSJWoIsLqkcRbKz11lQdkfI/ChIJfSJWoIsLqkcRbKz11lQdkfI.jpg",
+  "rating": 4.9,
+  "userRatingCount": 27,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–17:00",
+    "wtorek: 09:00–17:00",
+    "środa: 09:00–17:00",
+    "czwartek: 09:00–17:00",
+    "piątek: 09:00–17:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Olga Kuriata"
+  ],
+  "singlePrice": null
+}
