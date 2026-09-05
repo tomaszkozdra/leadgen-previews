@@ -1,0 +1,30 @@
+{
+  "leadId": "ChIJ_1YmdhIJqkcRxwZARJHUXEg",
+  "studioName": "SOMA Szczecin",
+  "city": "Szczecin",
+  "addressLine": "Swarożyca 6",
+  "postalCode": "71-601",
+  "phone": "+48 507 222 276",
+  "primaryColor": "#66683c",
+  "accentColor": "#84ab6d",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ_1YmdhIJqkcRxwZARJHUXEg/ChIJ_1YmdhIJqkcRxwZARJHUXEg.jpg",
+  "rating": 5,
+  "userRatingCount": 30,
+  "openingHoursLines": [
+    "poniedziałek: 16:30–19:30",
+    "wtorek: 08:30–09:30, 16:30–20:30",
+    "środa: 09:30–10:30, 18:00–20:30",
+    "czwartek: 08:30–09:30, 18:00–20:30",
+    "piątek: 18:00–20:30",
+    "sobota: 09:30–11:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Ashtanga",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ_1YmdhIJqkcRxwZARJHUXEg/ChIJ_1YmdhIJqkcRxwZARJHUXEg-gallery-1.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
