@@ -1,0 +1,34 @@
+{
+  "leadId": "ChIJlxo0NyAJqkcRvvlvNnlGZFo",
+  "studioName": "Zen Pilates",
+  "city": "Szczecin",
+  "addressLine": "Kapitańska 3a",
+  "postalCode": "70-300",
+  "phone": "+48 504 553 049",
+  "primaryColor": "#664b3d",
+  "accentColor": "#a9a570",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJlxo0NyAJqkcRvvlvNnlGZFo/ChIJlxo0NyAJqkcRvvlvNnlGZFo.jpg",
+  "rating": 4.9,
+  "userRatingCount": 81,
+  "openingHoursLines": [],
+  "classes": [
+    {
+      "name": "Pilates na reformerze",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJlxo0NyAJqkcRvvlvNnlGZFo/ChIJlxo0NyAJqkcRvvlvNnlGZFo-gallery-1.jpg"
+    },
+    {
+      "name": "Trening na Megaformerze",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJlxo0NyAJqkcRvvlvNnlGZFo/ChIJlxo0NyAJqkcRvvlvNnlGZFo-gallery-2.jpg"
+    },
+    {
+      "name": "Joga w chuście",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJlxo0NyAJqkcRvvlvNnlGZFo/ChIJlxo0NyAJqkcRvvlvNnlGZFo-gallery-3.jpg"
+    },
+    {
+      "name": "Barre",
+      "imageUrl": null
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
