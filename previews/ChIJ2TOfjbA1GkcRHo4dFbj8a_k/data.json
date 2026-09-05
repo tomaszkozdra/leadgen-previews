@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ2TOfjbA1GkcRHo4dFbj8a_k",
+  "studioName": "Polka Pilates Łódź",
+  "city": "Łódź",
+  "addressLine": "ks. bp. Wincentego Tymienieckiego 13b",
+  "postalCode": "90-365",
+  "phone": null,
+  "primaryColor": "#68453b",
+  "accentColor": "#ac9f6d",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ2TOfjbA1GkcRHo4dFbj8a_k/ChIJ2TOfjbA1GkcRHo4dFbj8a_k.jpg",
+  "rating": 4.9,
+  "userRatingCount": 59,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–21:00",
+    "wtorek: 07:30–21:00",
+    "środa: 07:30–21:00",
+    "czwartek: 07:30–21:00",
+    "piątek: 07:30–21:00",
+    "sobota: 09:30–13:30",
+    "niedziela: 09:30–13:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
