@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJLxv7QjRz_UYRDzibjk-o24A",
+  "studioName": "Pilates Flow Gdańsk",
+  "city": "Gdańsk",
+  "addressLine": "Królowej Jadwigi 137E",
+  "postalCode": "80-034",
+  "phone": "+48 512 895 477",
+  "primaryColor": "#66603d",
+  "accentColor": "#90a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJLxv7QjRz_UYRDzibjk-o24A/ChIJLxv7QjRz_UYRDzibjk-o24A.jpg",
+  "rating": 4.9,
+  "userRatingCount": 46,
+  "openingHoursLines": [
+    "poniedziałek: 17:00–21:00",
+    "wtorek: 17:00–21:00",
+    "środa: 17:00–21:00",
+    "czwartek: 17:00–21:00",
+    "piątek: 17:00–21:00",
+    "sobota: 09:00–15:00",
+    "niedziela: 10:00–14:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
