@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ0W9tQClFBEcRUZgvESFCMLA",
+  "studioName": "Twin Studio Joga",
+  "city": "Poznań",
+  "addressLine": "Chełmońskiego 22",
+  "postalCode": "60-700",
+  "phone": null,
+  "primaryColor": "#66443d",
+  "accentColor": "#a99b70",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ0W9tQClFBEcRUZgvESFCMLA/ChIJ0W9tQClFBEcRUZgvESFCMLA.jpg",
+  "rating": 4.8,
+  "userRatingCount": 58,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–09:30, 17:00–21:00",
+    "wtorek: 07:30–09:00, 17:00–21:00",
+    "środa: 07:30–09:00, 17:00–21:00",
+    "czwartek: 07:30–09:00, 17:00–21:00",
+    "piątek: 07:30–11:00, 17:00–21:00",
+    "sobota: 09:00–13:30, 16:30–18:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
