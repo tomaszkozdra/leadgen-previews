@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJdXiSufAJqkcRyfRX_IRoXFk",
+  "studioName": "Slowment Studio Jogi",
+  "city": "Szczecin",
+  "addressLine": "Aleja Wojska Polskiego 45",
+  "postalCode": "70-473",
+  "phone": "+48 603 883 767",
+  "primaryColor": "#66543d",
+  "accentColor": "#a1a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJdXiSufAJqkcRyfRX_IRoXFk/ChIJdXiSufAJqkcRyfRX_IRoXFk.jpg",
+  "rating": 4.8,
+  "userRatingCount": 22,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:30",
+    "wtorek: 08:00–21:30",
+    "środa: 08:30–21:30",
+    "czwartek: 08:00–21:30",
+    "piątek: 08:30–21:30",
+    "sobota: 09:30–11:30",
+    "niedziela: 09:30–11:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
