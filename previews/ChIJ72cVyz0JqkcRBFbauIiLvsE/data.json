@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ72cVyz0JqkcRBFbauIiLvsE",
+  "studioName": "Polka Pilates Szczecin",
+  "city": "Szczecin",
+  "addressLine": "Zielonego Mostu 6",
+  "postalCode": "70-644",
+  "phone": "+48 784 210 692",
+  "primaryColor": "#66543d",
+  "accentColor": "#a0a970",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJ72cVyz0JqkcRBFbauIiLvsE/ChIJ72cVyz0JqkcRBFbauIiLvsE.jpg",
+  "rating": 4.7,
+  "userRatingCount": 38,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–21:00",
+    "niedziela: 09:00–21:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
