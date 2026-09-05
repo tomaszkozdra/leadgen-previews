@@ -1,0 +1,38 @@
+{
+  "leadId": "ChIJZciGXaN1_UYRgQjkh1YL5NU",
+  "studioName": "Afterlife Studio Pilates Gdańsk",
+  "city": "Gdańsk",
+  "addressLine": "Śląska 17",
+  "postalCode": "80-384",
+  "phone": "+48 721 212 747",
+  "primaryColor": "#79302a",
+  "accentColor": "#c39d55",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJZciGXaN1_UYRgQjkh1YL5NU/ChIJZciGXaN1_UYRgQjkh1YL5NU.jpg",
+  "rating": 4.9,
+  "userRatingCount": 102,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–21:00",
+    "niedziela: 08:00–21:00"
+  ],
+  "classes": [
+    {
+      "name": "Trening indywidualny",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJZciGXaN1_UYRgQjkh1YL5NU/ChIJZciGXaN1_UYRgQjkh1YL5NU-gallery-1.jpg"
+    },
+    {
+      "name": "Zajęcia grupowe",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJZciGXaN1_UYRgQjkh1YL5NU/ChIJZciGXaN1_UYRgQjkh1YL5NU-gallery-2.jpg"
+    },
+    {
+      "name": "Trening DUO",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJZciGXaN1_UYRgQjkh1YL5NU/ChIJZciGXaN1_UYRgQjkh1YL5NU-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [],
+  "singlePrice": null
+}
