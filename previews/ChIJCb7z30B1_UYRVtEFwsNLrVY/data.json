@@ -1,0 +1,43 @@
+{
+  "leadId": "ChIJCb7z30B1_UYRVtEFwsNLrVY",
+  "studioName": "ROLL UP STUDIO Pilates Gdańsk",
+  "city": "Gdańsk",
+  "addressLine": "Myśliwska 70",
+  "postalCode": "80-283",
+  "phone": "+48 500 383 183",
+  "primaryColor": "#3d6664",
+  "accentColor": "#708aa9",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCb7z30B1_UYRVtEFwsNLrVY/ChIJCb7z30B1_UYRVtEFwsNLrVY.jpg",
+  "rating": 5,
+  "userRatingCount": 16,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [
+    {
+      "name": "Trening indywidualny",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCb7z30B1_UYRVtEFwsNLrVY/ChIJCb7z30B1_UYRVtEFwsNLrVY-gallery-1.jpg"
+    },
+    {
+      "name": "Trening DUO",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCb7z30B1_UYRVtEFwsNLrVY/ChIJCb7z30B1_UYRVtEFwsNLrVY-gallery-2.jpg"
+    },
+    {
+      "name": "Trening w kameralnej grupie",
+      "imageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJCb7z30B1_UYRVtEFwsNLrVY/ChIJCb7z30B1_UYRVtEFwsNLrVY-gallery-3.jpg"
+    }
+  ],
+  "instructorNames": [
+    "Aleksandra Czapiewska",
+    "Klaudia Rąba",
+    "Magdalena Michiej-Tołstyko",
+    "Julia Kozieł"
+  ],
+  "singlePrice": null
+}
