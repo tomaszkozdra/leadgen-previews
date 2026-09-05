@@ -1,0 +1,27 @@
+{
+  "leadId": "ChIJzWRjbpWg_UYRxAC9CYmGTUk",
+  "studioName": "Asia Yoga - joga Chwarzno",
+  "city": "Gdynia",
+  "addressLine": "Afrodyty 45",
+  "postalCode": "81-601",
+  "phone": null,
+  "primaryColor": "#276c7c",
+  "accentColor": "#516cc8",
+  "heroImageUrl": "https://tomaszkozdra.github.io/leadgen-previews/previews/ChIJzWRjbpWg_UYRxAC9CYmGTUk/ChIJzWRjbpWg_UYRxAC9CYmGTUk.jpg",
+  "rating": 5,
+  "userRatingCount": 14,
+  "openingHoursLines": [
+    "poniedziałek: 19:00–20:30",
+    "wtorek: Zamknięte",
+    "środa: 09:00–10:10, 19:00–20:30",
+    "czwartek: 19:00–20:30",
+    "piątek: 09:00–10:10",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [
+    "Asia"
+  ],
+  "singlePrice": null
+}
