@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJDcmCzz4UGEcRr8-jZjjuQvU",
+  "studioName": "Klub Fitness Figura",
+  "city": "Starachowice",
+  "addressLine": "Grzybowa 1",
+  "postalCode": "27-200",
+  "phone": "+48 600 237 594",
+  "primaryColor": "#87491d",
+  "accentColor": "#d7d742",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJDcmCzz4UGEcRr8-jZjjuQvU/ChIJDcmCzz4UGEcRr8-jZjjuQvU.jpg",
+  "rating": 4.7,
+  "userRatingCount": 21,
+  "openingHoursLines": [
+    "poniedziałek: 16:00–20:00",
+    "wtorek: 16:00–21:00",
+    "środa: 16:00–20:00",
+    "czwartek: 16:00–21:00",
+    "piątek: 16:00–20:00",
+    "sobota: 09:00–10:00",
+    "niedziela: 09:00–11:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

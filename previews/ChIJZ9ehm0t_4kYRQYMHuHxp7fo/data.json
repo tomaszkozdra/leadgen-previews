@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJZ9ehm0t_4kYRQYMHuHxp7fo",
+  "studioName": "Pilateska.net Anna Kutnik Pilates Olsztyn",
+  "city": "Olsztyn",
+  "addressLine": "Juliana Tuwima 9",
+  "postalCode": "10-747",
+  "phone": "+48 606 319 649",
+  "primaryColor": "#7c4f27",
+  "accentColor": "#c1c851",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJZ9ehm0t_4kYRQYMHuHxp7fo/ChIJZ9ehm0t_4kYRQYMHuHxp7fo.png",
+  "rating": 5,
+  "userRatingCount": 9,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJZbH_X9g1D0cRgdmNGYG_16U",
+  "studioName": "Fit Style Zone",
+  "city": "Bolesławiec",
+  "addressLine": "Śluzowa 21",
+  "postalCode": "59-700",
+  "phone": "+48 573 132 348",
+  "primaryColor": "#66513d",
+  "accentColor": "#a5a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJZbH_X9g1D0cRgdmNGYG_16U/ChIJZbH_X9g1D0cRgdmNGYG_16U.jpg",
+  "rating": 4.7,
+  "userRatingCount": 362,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 08:00–20:00",
+    "niedziela: 08:00–16:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

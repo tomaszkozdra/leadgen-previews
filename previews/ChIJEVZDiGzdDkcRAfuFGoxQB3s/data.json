@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJEVZDiGzdDkcRAfuFGoxQB3s",
+  "studioName": "Fit Active",
+  "city": "Jelenia Góra",
+  "addressLine": "Cieplicka 83",
+  "postalCode": "58-560",
+  "phone": "+48 603 408 793",
+  "primaryColor": "#871d1e",
+  "accentColor": "#d79742",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJEVZDiGzdDkcRAfuFGoxQB3s/ChIJEVZDiGzdDkcRAfuFGoxQB3s.jpg",
+  "rating": 4.9,
+  "userRatingCount": 40,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 08:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

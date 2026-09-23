@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ73KEuXLkA0cRaU0hHhRy4YQ",
+  "studioName": "Gym Factory Fitness & Fight",
+  "city": "Piła",
+  "addressLine": "Warsztatowa 8",
+  "postalCode": "64-920",
+  "phone": "+48 67 350 99 00",
+  "primaryColor": "#664e3d",
+  "accentColor": "#a9a870",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ73KEuXLkA0cRaU0hHhRy4YQ/ChIJ73KEuXLkA0cRaU0hHhRy4YQ.jpg",
+  "rating": 4.5,
+  "userRatingCount": 371,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 08:00–16:00",
+    "niedziela: 08:00–16:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

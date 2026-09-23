@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJY0XWrtP7PUcRGxk5rr3yaHM",
+  "studioName": "Body Reformer House",
+  "city": "Nowy Sącz",
+  "addressLine": "Zygmuntowska 17a",
+  "postalCode": "33-300",
+  "phone": "+48 534 649 999",
+  "primaryColor": "#66583d",
+  "accentColor": "#9ba970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJY0XWrtP7PUcRGxk5rr3yaHM/ChIJY0XWrtP7PUcRGxk5rr3yaHM.jpg",
+  "rating": 5,
+  "userRatingCount": 8,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–18:00",
+    "wtorek: 08:00–18:00",
+    "środa: 08:00–18:00",
+    "czwartek: 08:00–18:00",
+    "piątek: 08:00–18:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

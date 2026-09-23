@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJrUlbTtEB4UYR87L-0Exd-xU",
+  "studioName": "STUDIO RUCHU",
+  "city": "Suwałki",
+  "addressLine": "Bydgoska 33",
+  "postalCode": "16-400",
+  "phone": "+48 530 282 612",
+  "primaryColor": "#6b5738",
+  "accentColor": "#a3b168",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJrUlbTtEB4UYR87L-0Exd-xU/ChIJrUlbTtEB4UYR87L-0Exd-xU.jpg",
+  "rating": 4.9,
+  "userRatingCount": 123,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–22:00",
+    "wtorek: 07:00–22:00",
+    "środa: 07:00–22:00",
+    "czwartek: 07:00–22:00",
+    "piątek: 07:00–22:00",
+    "sobota: 08:00–20:00",
+    "niedziela: 08:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJO0upGUDkA0cRFB8R3hjy6CM",
+  "studioName": "COLOS Gym&Fitness",
+  "city": "Piła",
+  "addressLine": "Wojciecha Kossaka 117",
+  "postalCode": "64-920",
+  "phone": "+48 885 905 858",
+  "primaryColor": "#664f3d",
+  "accentColor": "#a8a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJO0upGUDkA0cRFB8R3hjy6CM/ChIJO0upGUDkA0cRFB8R3hjy6CM.jpg",
+  "rating": 4.8,
+  "userRatingCount": 269,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 09:00–16:00",
+    "niedziela: 11:00–15:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

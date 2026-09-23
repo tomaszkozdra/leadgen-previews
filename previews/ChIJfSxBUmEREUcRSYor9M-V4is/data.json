@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJfSxBUmEREUcRSYor9M-V4is",
+  "studioName": "Mateusz Płusa - Trener personalny",
+  "city": "Kędzierzyn-Koźle",
+  "addressLine": "Aleja Jana Pawła II 58",
+  "postalCode": "47-232",
+  "phone": "+48 602 128 821",
+  "primaryColor": "#3a1d87",
+  "accentColor": "#c242d7",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJfSxBUmEREUcRSYor9M-V4is/ChIJfSxBUmEREUcRSYor9M-V4is.jpg",
+  "rating": 5,
+  "userRatingCount": 8,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

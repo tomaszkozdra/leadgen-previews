@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJGwgoOFcxEUcR6gQ2ygKdL_Y",
+  "studioName": "Hapi Papi Joga",
+  "city": "Gliwice",
+  "addressLine": "Aleja Jana Nowaka-Jeziorańskiego 5G",
+  "postalCode": "44-100",
+  "phone": "+48 504 673 974",
+  "primaryColor": "#664c3d",
+  "accentColor": "#a9a670",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJGwgoOFcxEUcR6gQ2ygKdL_Y/ChIJGwgoOFcxEUcR6gQ2ygKdL_Y.jpg",
+  "rating": 5,
+  "userRatingCount": 44,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

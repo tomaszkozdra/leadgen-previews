@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJAXoypPtHAkcRzbEbCHX_eMc",
+  "studioName": "RMG GYM Chojnice",
+  "city": "Chojnice",
+  "addressLine": "Sępoleńska 24B",
+  "postalCode": "89-600",
+  "phone": null,
+  "primaryColor": "#664f3d",
+  "accentColor": "#a8a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJAXoypPtHAkcRzbEbCHX_eMc/ChIJAXoypPtHAkcRzbEbCHX_eMc.jpg",
+  "rating": 4.1,
+  "userRatingCount": 81,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

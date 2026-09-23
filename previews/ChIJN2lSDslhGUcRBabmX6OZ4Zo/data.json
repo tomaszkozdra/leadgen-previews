@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJN2lSDslhGUcRBabmX6OZ4Zo",
+  "studioName": "Łukasz Kowalczyk Trener personalny",
+  "city": "Skierniewice",
+  "addressLine": "Aleja Niepodległości 14",
+  "postalCode": "96-100",
+  "phone": "+48 607 264 209",
+  "primaryColor": "#66543d",
+  "accentColor": "#a1a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJN2lSDslhGUcRBabmX6OZ4Zo/ChIJN2lSDslhGUcRBabmX6OZ4Zo.jpg",
+  "rating": 5,
+  "userRatingCount": 7,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

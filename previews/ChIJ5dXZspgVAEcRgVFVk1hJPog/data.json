@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ5dXZspgVAEcRgVFVk1hJPog",
+  "studioName": "Training Tank",
+  "city": "Kołobrzeg",
+  "addressLine": "Basztowa 1A",
+  "postalCode": "78-100",
+  "phone": "+48 669 765 885",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ5dXZspgVAEcRgVFVk1hJPog/ChIJ5dXZspgVAEcRgVFVk1hJPog.jpg",
+  "rating": 4.8,
+  "userRatingCount": 24,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–12:00, 15:00–21:00",
+    "wtorek: 06:00–12:00, 15:00–21:00",
+    "środa: 06:00–12:00, 15:00–21:00",
+    "czwartek: 06:00–12:00, 15:00–21:00",
+    "piątek: 06:00–12:00, 15:00–21:00",
+    "sobota: 10:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

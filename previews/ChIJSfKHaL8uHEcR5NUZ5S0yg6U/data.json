@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJSfKHaL8uHEcR5NUZ5S0yg6U",
+  "studioName": "Fight Fitness",
+  "city": "Ciechanów",
+  "addressLine": "Niechodzka 3",
+  "postalCode": "06-400",
+  "phone": "+48 788 405 303",
+  "primaryColor": "#66593d",
+  "accentColor": "#9aa970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJSfKHaL8uHEcR5NUZ5S0yg6U/ChIJSfKHaL8uHEcR5NUZ5S0yg6U.jpg",
+  "rating": 4.9,
+  "userRatingCount": 136,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

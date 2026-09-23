@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJVWEP6c0D4UYR43dZ1tEAskM",
+  "studioName": "Pilateska",
+  "city": "Suwałki",
+  "addressLine": "Marii Konopnickiej 10",
+  "postalCode": "16-400",
+  "phone": "+48 792 333 063",
+  "primaryColor": "#77382c",
+  "accentColor": "#c1a658",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJVWEP6c0D4UYR43dZ1tEAskM/ChIJVWEP6c0D4UYR43dZ1tEAskM.jpg",
+  "rating": 5,
+  "userRatingCount": 48,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–09:30, 17:00–21:00",
+    "wtorek: 17:00–20:00",
+    "środa: 17:00–21:00",
+    "czwartek: 17:00–20:00",
+    "piątek: 17:00–19:00",
+    "sobota: 09:00–10:30",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

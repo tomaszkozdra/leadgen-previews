@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJoaVWAtwX_kYRiSWSd6wauoE",
+  "studioName": "Studio Jogi JogaLove",
+  "city": "Słupsk",
+  "addressLine": "aleja 3 Maja 77",
+  "postalCode": "76-200",
+  "phone": "+48 600 585 602",
+  "primaryColor": "#66443d",
+  "accentColor": "#a99b70",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJoaVWAtwX_kYRiSWSd6wauoE/ChIJoaVWAtwX_kYRiSWSd6wauoE.jpg",
+  "rating": 5,
+  "userRatingCount": 52,
+  "openingHoursLines": [
+    "poniedziałek: 16:00–20:30",
+    "wtorek: 09:00–20:00",
+    "środa: 18:00–20:30",
+    "czwartek: 09:00–20:30",
+    "piątek: 19:00–20:30",
+    "sobota: 09:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJH7j_8v9rPUcRNFcRG9PNoe0",
+  "studioName": "2B Studio - Trening EMS - Mielec",
+  "city": "Mielec",
+  "addressLine": "Biernackiego 10A",
+  "postalCode": "39-300",
+  "phone": "+48 729 933 585",
+  "primaryColor": "#7d6326",
+  "accentColor": "#a7ca4f",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJH7j_8v9rPUcRNFcRG9PNoe0/ChIJH7j_8v9rPUcRNFcRG9PNoe0.jpg",
+  "rating": 5,
+  "userRatingCount": 59,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–16:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

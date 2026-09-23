@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJQ0hTvlGYBUcRHDRLh_l5UhU",
+  "studioName": "Kate Pilates Studio Leszno",
+  "city": "Leszno",
+  "addressLine": "Starozamkowa 8",
+  "postalCode": "64-100",
+  "phone": "+48 696 130 279",
+  "primaryColor": "#66503d",
+  "accentColor": "#a7a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJQ0hTvlGYBUcRHDRLh_l5UhU/ChIJQ0hTvlGYBUcRHDRLh_l5UhU.jpg",
+  "rating": 5,
+  "userRatingCount": 38,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

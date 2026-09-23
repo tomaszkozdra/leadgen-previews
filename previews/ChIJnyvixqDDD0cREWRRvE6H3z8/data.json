@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJnyvixqDDD0cREWRRvE6H3z8",
+  "studioName": "House Of Champs - Studio Treningu Personalnego DZIECI|MŁODZIEŻ|DOROŚLI",
+  "city": "Wrocław",
+  "addressLine": "Prądzyńskiego 31a",
+  "postalCode": "50-433",
+  "phone": "+48 736 650 424",
+  "primaryColor": "#40663d",
+  "accentColor": "#70a98e",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJnyvixqDDD0cREWRRvE6H3z8/ChIJnyvixqDDD0cREWRRvE6H3z8.jpg",
+  "rating": 5,
+  "userRatingCount": 56,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–21:00",
+    "wtorek: 06:00–21:00",
+    "środa: 06:00–21:00",
+    "czwartek: 06:00–21:00",
+    "piątek: 06:00–21:00",
+    "sobota: 09:00–20:00",
+    "niedziela: 09:00–15:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

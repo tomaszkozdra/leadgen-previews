@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ9YxiyEYREUcRxcm7SrLjcsE",
+  "studioName": "Piotr Prokop- Trener Personalny",
+  "city": "Kędzierzyn-Koźle",
+  "addressLine": "Aleja Jana Pawła II 58",
+  "postalCode": "47-232",
+  "phone": "+48 502 982 990",
+  "primaryColor": "#3d5266",
+  "accentColor": "#7470a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ9YxiyEYREUcRxcm7SrLjcsE/ChIJ9YxiyEYREUcRxcm7SrLjcsE.jpg",
+  "rating": 5,
+  "userRatingCount": 203,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

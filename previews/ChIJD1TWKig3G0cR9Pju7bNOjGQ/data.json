@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJD1TWKig3G0cR9Pju7bNOjGQ",
+  "studioName": "Studio Pilates & EMS by Metamorphose",
+  "city": "Konin",
+  "addressLine": "Jana Pawła II 89",
+  "postalCode": "62-510",
+  "phone": "+48 726 320 850",
+  "primaryColor": "#66523d",
+  "accentColor": "#a4a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJD1TWKig3G0cR9Pju7bNOjGQ/ChIJD1TWKig3G0cR9Pju7bNOjGQ.jpg",
+  "rating": 5,
+  "userRatingCount": 16,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–20:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–20:00",
+    "piątek: 08:00–20:00",
+    "sobota: 08:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ0aekKj-ZHEcRRCXuMY5wFYQ",
+  "studioName": "Koncept+ Włocławek",
+  "city": "Włocławek",
+  "addressLine": "Pułaskiego 6",
+  "postalCode": "87-800",
+  "phone": "+48 729 910 003",
+  "primaryColor": "#66503d",
+  "accentColor": "#a7a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ0aekKj-ZHEcRRCXuMY5wFYQ/ChIJ0aekKj-ZHEcRRCXuMY5wFYQ.jpg",
+  "rating": 4.9,
+  "userRatingCount": 112,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–20:00",
+    "wtorek: 07:00–20:00",
+    "środa: 07:00–20:00",
+    "czwartek: 07:00–20:00",
+    "piątek: 07:00–20:00",
+    "sobota: 07:00–13:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

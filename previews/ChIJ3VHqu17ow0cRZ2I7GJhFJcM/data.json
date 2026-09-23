@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ3VHqu17ow0cRZ2I7GJhFJcM",
+  "studioName": "Maestro - Centrum Rozwoju Artystycznego",
+  "city": "Białystok",
+  "addressLine": "Wasilkowska 1",
+  "postalCode": "15-017",
+  "phone": "+48 608 354 199",
+  "primaryColor": "#411f84",
+  "accentColor": "#c845d3",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ3VHqu17ow0cRZ2I7GJhFJcM/ChIJ3VHqu17ow0cRZ2I7GJhFJcM.jpg",
+  "rating": 5,
+  "userRatingCount": 7,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–20:00",
+    "wtorek: 09:00–20:00",
+    "środa: 09:00–20:00",
+    "czwartek: 09:00–20:00",
+    "piątek: 09:00–20:00",
+    "sobota: 09:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

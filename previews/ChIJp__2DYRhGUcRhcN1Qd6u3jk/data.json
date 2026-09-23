@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJp__2DYRhGUcRhcN1Qd6u3jk",
+  "studioName": "4evershape Studio treningu personalnego",
+  "city": "Skierniewice",
+  "addressLine": "Rawska 41",
+  "postalCode": "96-100",
+  "phone": "+48 602 201 712",
+  "primaryColor": "#66563d",
+  "accentColor": "#9da970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJp__2DYRhGUcRhcN1Qd6u3jk/ChIJp__2DYRhGUcRhcN1Qd6u3jk.jpg",
+  "rating": 5,
+  "userRatingCount": 4,
+  "openingHoursLines": [
+    "poniedziałek: 06:30–22:30",
+    "wtorek: 06:30–22:30",
+    "środa: 06:30–22:30",
+    "czwartek: 06:30–22:30",
+    "piątek: 06:30–22:30",
+    "sobota: 08:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

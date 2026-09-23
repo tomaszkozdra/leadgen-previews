@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJOYCEd7ZHAkcRazveV5iLDBY",
+  "studioName": "Centrum - inteligentny trening. Siłownia, fitness Chojnice 💪",
+  "city": "Chojnice",
+  "addressLine": "Huberta Wagnera 1",
+  "postalCode": "89-600",
+  "phone": "+48 883 224 998",
+  "primaryColor": "#87251d",
+  "accentColor": "#d7a542",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJOYCEd7ZHAkcRazveV5iLDBY/ChIJOYCEd7ZHAkcRazveV5iLDBY.png",
+  "rating": 5,
+  "userRatingCount": 135,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–22:00",
+    "wtorek: 08:00–22:00",
+    "środa: 07:00–22:00",
+    "czwartek: 08:00–22:00",
+    "piątek: 07:00–22:00",
+    "sobota: 09:00–16:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

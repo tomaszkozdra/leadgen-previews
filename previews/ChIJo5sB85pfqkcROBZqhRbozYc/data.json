@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJo5sB85pfqkcROBZqhRbozYc",
+  "studioName": "Studio Pilates Reformer Champions Academy",
+  "city": "Świnoujście",
+  "addressLine": "Norberta Barlickiego 2F",
+  "postalCode": "72-602",
+  "phone": "+48 884 433 013",
+  "primaryColor": "#7d5126",
+  "accentColor": "#c0ca4f",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJo5sB85pfqkcROBZqhRbozYc/ChIJo5sB85pfqkcROBZqhRbozYc.jpg",
+  "rating": 5,
+  "userRatingCount": 4,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–23:00",
+    "wtorek: 07:00–23:00",
+    "środa: 07:00–23:00",
+    "czwartek: 07:00–23:00",
+    "piątek: 07:00–23:00",
+    "sobota: 08:00–20:00",
+    "niedziela: 08:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

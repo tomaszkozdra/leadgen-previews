@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJUWu1q3VvD0cRwknhHVINHNg",
+  "studioName": "Pro-Activ Fitness Club",
+  "city": "Lubin",
+  "addressLine": "Szpakowa 3a",
+  "postalCode": "59-300",
+  "phone": "+48 515 907 848",
+  "primaryColor": "#7c4d27",
+  "accentColor": "#c5c850",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJUWu1q3VvD0cRwknhHVINHNg/ChIJUWu1q3VvD0cRwknhHVINHNg.jpg",
+  "rating": 4.8,
+  "userRatingCount": 94,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

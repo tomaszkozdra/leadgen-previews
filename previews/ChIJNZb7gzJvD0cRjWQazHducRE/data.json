@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJNZb7gzJvD0cRjWQazHducRE",
+  "studioName": "IRON STUDIO",
+  "city": "Lubin",
+  "addressLine": "Stefana Wyszyńskiego 8",
+  "postalCode": "59-300",
+  "phone": "+48 533 043 302",
+  "primaryColor": "#3d6659",
+  "accentColor": "#7099a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJNZb7gzJvD0cRjWQazHducRE/ChIJNZb7gzJvD0cRjWQazHducRE.png",
+  "rating": 5,
+  "userRatingCount": 69,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 10:00–19:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

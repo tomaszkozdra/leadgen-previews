@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJLQtVPxLNAUcRniCMKXLO59Q",
+  "studioName": "Studio Pilates Good Move",
+  "city": "Koszalin",
+  "addressLine": "Zakole 10A",
+  "postalCode": "75-814",
+  "phone": "+48 510 287 611",
+  "primaryColor": "#6e4935",
+  "accentColor": "#b4af65",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJLQtVPxLNAUcRniCMKXLO59Q/ChIJLQtVPxLNAUcRniCMKXLO59Q.jpg",
+  "rating": 5,
+  "userRatingCount": 38,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

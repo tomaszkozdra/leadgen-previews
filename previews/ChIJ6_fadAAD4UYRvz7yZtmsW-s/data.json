@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ6_fadAAD4UYRvz7yZtmsW-s",
+  "studioName": "Fit Vasilevski Studio - Trener Personalny Karol Wasilewski",
+  "city": "Suwałki",
+  "addressLine": null,
+  "postalCode": "16-400",
+  "phone": "+48 505 195 590",
+  "primaryColor": "#6a5439",
+  "accentColor": "#a5af6a",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ6_fadAAD4UYRvz7yZtmsW-s/ChIJ6_fadAAD4UYRvz7yZtmsW-s.jpg",
+  "rating": 5,
+  "userRatingCount": 2,
+  "openingHoursLines": [
+    "poniedziałek: 18:00–22:00",
+    "wtorek: 16:00–22:00",
+    "środa: 16:00–22:00",
+    "czwartek: 16:00–22:00",
+    "piątek: 16:00–22:00",
+    "sobota: 10:00–18:00",
+    "niedziela: 10:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJlYqsPG1rPUcR69QVzCgjBCo",
+  "studioName": "Artemis. Akademia Zdrowych Nawyków",
+  "city": "Mielec",
+  "addressLine": "ul. Piotra Skargi 9",
+  "postalCode": "39-300",
+  "phone": "+48 509 168 696",
+  "primaryColor": "#66623d",
+  "accentColor": "#8da970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJlYqsPG1rPUcR69QVzCgjBCo/ChIJlYqsPG1rPUcR69QVzCgjBCo.jpg",
+  "rating": 4.7,
+  "userRatingCount": 129,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–12:00",
+    "niedziela: 08:00–12:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

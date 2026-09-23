@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ95mdJu3rD0cRBs1Zn_NKJ7Y",
+  "studioName": "4Emka studio treningu personalnego",
+  "city": "Wrocław",
+  "addressLine": "Pełczyńska 119 A",
+  "postalCode": "51-180",
+  "phone": "+48 721 540 686",
+  "primaryColor": "#665a3d",
+  "accentColor": "#98a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ95mdJu3rD0cRBs1Zn_NKJ7Y/ChIJ95mdJu3rD0cRBs1Zn_NKJ7Y.jpg",
+  "rating": 4.8,
+  "userRatingCount": 17,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 06:00–13:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

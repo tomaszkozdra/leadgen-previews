@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJQzWymLnJFkcR56pN_Miy2tI",
+  "studioName": "Studio Pilates Harmony - Reformer Tychy",
+  "city": "Tychy",
+  "addressLine": "Katowicka 41",
+  "postalCode": "43-100",
+  "phone": "+48 787 120 810",
+  "primaryColor": "#6e5935",
+  "accentColor": "#a4b464",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJQzWymLnJFkcR56pN_Miy2tI/ChIJQzWymLnJFkcR56pN_Miy2tI.jpg",
+  "rating": 5,
+  "userRatingCount": 55,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–10:30, 17:00–21:00",
+    "wtorek: 07:30–10:30, 16:30–21:00",
+    "środa: 17:30–21:00",
+    "czwartek: 07:30–10:30, 17:00–21:00",
+    "piątek: 07:00–10:30, 17:00–21:00",
+    "sobota: 09:30–12:30",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJAbLAh183GkcRFKPeiFw9gzI",
+  "studioName": "EMS Dream Body - studio Pabianice",
+  "city": "Pabianice",
+  "addressLine": null,
+  "postalCode": "95-200",
+  "phone": "+48 501 703 846",
+  "primaryColor": "#816022",
+  "accentColor": "#b0cf49",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJAbLAh183GkcRFKPeiFw9gzI/ChIJAbLAh183GkcRFKPeiFw9gzI.jpg",
+  "rating": 4.9,
+  "userRatingCount": 10,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–22:00",
+    "wtorek: 08:00–22:00",
+    "środa: 08:00–22:00",
+    "czwartek: 08:00–22:00",
+    "piątek: 08:00–22:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

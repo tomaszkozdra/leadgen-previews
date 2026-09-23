@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJV9KtB4HDD0cRJjDvKJ83uqw",
+  "studioName": "reMOVE studio treningu personalnego i medycznego",
+  "city": "Wrocław",
+  "addressLine": "Podwale 61",
+  "postalCode": "50-010",
+  "phone": "+48 786 945 978",
+  "primaryColor": "#665c3d",
+  "accentColor": "#95a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJV9KtB4HDD0cRJjDvKJ83uqw/ChIJV9KtB4HDD0cRJjDvKJ83uqw.jpg",
+  "rating": 5,
+  "userRatingCount": 91,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

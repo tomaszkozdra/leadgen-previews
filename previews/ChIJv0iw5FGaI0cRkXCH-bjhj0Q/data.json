@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJv0iw5FGaI0cRkXCH-bjhj0Q",
+  "studioName": "KlubJoga",
+  "city": "Chełm",
+  "addressLine": "Księdza Jerzego Popiełuszki 9",
+  "postalCode": "22-100",
+  "phone": "+48 600 254 837",
+  "primaryColor": "#6e851e",
+  "accentColor": "#60d544",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJv0iw5FGaI0cRkXCH-bjhj0Q/ChIJv0iw5FGaI0cRkXCH-bjhj0Q.jpg",
+  "rating": 5,
+  "userRatingCount": 16,
+  "openingHoursLines": [
+    "poniedziałek: 16:15–20:15",
+    "wtorek: 08:15–10:15, 16:15–20:15",
+    "środa: 16:15–20:15",
+    "czwartek: 08:15–10:15",
+    "piątek: 16:15–20:15",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

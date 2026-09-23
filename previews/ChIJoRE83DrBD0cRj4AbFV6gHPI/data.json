@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJoRE83DrBD0cRj4AbFV6gHPI",
+  "studioName": "Strefa Treningu - studio treningu personalnego",
+  "city": "Wrocław",
+  "addressLine": "Objazdowa 50",
+  "postalCode": "54-513",
+  "phone": "+48 790 468 044",
+  "primaryColor": "#66563d",
+  "accentColor": "#9ea970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJoRE83DrBD0cRj4AbFV6gHPI/ChIJoRE83DrBD0cRj4AbFV6gHPI.jpg",
+  "rating": 5,
+  "userRatingCount": 34,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–13:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

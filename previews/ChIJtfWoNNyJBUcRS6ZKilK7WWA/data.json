@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJtfWoNNyJBUcRS6ZKilK7WWA",
+  "studioName": "Joga Głogów - zajęcia jogi i oddechu | Kuźnia Harmonii",
+  "city": "Głogów",
+  "addressLine": "Południowa 1",
+  "postalCode": "67-200",
+  "phone": "+48 512 587 990",
+  "primaryColor": "#694f3a",
+  "accentColor": "#abad6b",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJtfWoNNyJBUcRS6ZKilK7WWA/ChIJtfWoNNyJBUcRS6ZKilK7WWA.jpg",
+  "rating": 5,
+  "userRatingCount": 32,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–21:00",
+    "wtorek: 07:30–21:00",
+    "środa: 07:30–21:00",
+    "czwartek: 07:30–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 09:00–20:00",
+    "niedziela: 10:00–19:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

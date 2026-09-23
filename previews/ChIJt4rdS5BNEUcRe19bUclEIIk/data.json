@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJt4rdS5BNEUcRe19bUclEIIk",
+  "studioName": "Essence pilates na reformerach Żory",
+  "city": "Żory",
+  "addressLine": "Rozwojowa 2",
+  "postalCode": "44-240",
+  "phone": "+48 602 412 762",
+  "primaryColor": "#1d5687",
+  "accentColor": "#4842d7",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJt4rdS5BNEUcRe19bUclEIIk/ChIJt4rdS5BNEUcRe19bUclEIIk.jpg",
+  "rating": 5,
+  "userRatingCount": 15,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–10:30, 16:30–20:50",
+    "wtorek: 08:30–10:30",
+    "środa: 08:30–10:30, 16:30–20:50",
+    "czwartek: 08:30–10:30, 16:30–20:50",
+    "piątek: 08:30–10:30, 16:30–20:50",
+    "sobota: 09:00–12:10, 16:00–18:00",
+    "niedziela: 10:00–12:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJry2Mcvn1BUcRJ2xvgdVGF3I",
+  "studioName": "DOBRY.TRENER - Mateusz Dobrakowski",
+  "city": "Głogów",
+  "addressLine": "Stawna 2",
+  "postalCode": "67-210",
+  "phone": "+48 791 942 501",
+  "primaryColor": "#714232",
+  "accentColor": "#b9aa60",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJry2Mcvn1BUcRJ2xvgdVGF3I/ChIJry2Mcvn1BUcRJ2xvgdVGF3I.jpg",
+  "rating": 5,
+  "userRatingCount": 43,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–20:00",
+    "wtorek: 07:00–20:00",
+    "środa: 07:00–20:00",
+    "czwartek: 07:00–20:00",
+    "piątek: 07:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJYWMRNQuVFkcRaADujRMFGbw",
+  "studioName": "Centrum Fitness Club",
+  "city": "Oświęcim",
+  "addressLine": "Unii Europejskiej h39",
+  "postalCode": "32-600",
+  "phone": "+48 696 311 740",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJYWMRNQuVFkcRaADujRMFGbw/ChIJYWMRNQuVFkcRaADujRMFGbw.jpg",
+  "rating": 4.7,
+  "userRatingCount": 179,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 06:00–20:00",
+    "niedziela: 06:00–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

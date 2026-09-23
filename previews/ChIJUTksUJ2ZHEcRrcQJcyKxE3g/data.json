@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJUTksUJ2ZHEcRrcQJcyKxE3g",
+  "studioName": "FunkcjoMasaż&Pilates Anna Wodrowska STUDIO",
+  "city": "Włocławek",
+  "addressLine": "Metalowa 16",
+  "postalCode": "87-800",
+  "phone": "+48 669 608 660",
+  "primaryColor": "#714532",
+  "accentColor": "#b8ae60",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJUTksUJ2ZHEcRrcQJcyKxE3g/ChIJUTksUJ2ZHEcRrcQJcyKxE3g.jpg",
+  "rating": 4.9,
+  "userRatingCount": 51,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–20:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–20:00",
+    "piątek: 08:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

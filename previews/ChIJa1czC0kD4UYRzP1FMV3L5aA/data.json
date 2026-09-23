@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJa1czC0kD4UYRzP1FMV3L5aA",
+  "studioName": "Fortis24",
+  "city": "Suwałki",
+  "addressLine": "Innowacyjna 3",
+  "postalCode": "16-400",
+  "phone": "+48 504 467 467",
+  "primaryColor": "#79652b",
+  "accentColor": "#9fc355",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJa1czC0kD4UYRzP1FMV3L5aA/ChIJa1czC0kD4UYRzP1FMV3L5aA.jpg",
+  "rating": 5,
+  "userRatingCount": 3,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

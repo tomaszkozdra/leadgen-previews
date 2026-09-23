@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJNSDECQToD0cRQwzuXZhzFUQ",
+  "studioName": "Studio treningu personalnego Poznańska",
+  "city": "Wrocław",
+  "addressLine": "Białowieska 73C",
+  "postalCode": "54-234",
+  "phone": "+48 534 632 795",
+  "primaryColor": "#3d4966",
+  "accentColor": "#8070a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJNSDECQToD0cRQwzuXZhzFUQ/ChIJNSDECQToD0cRQwzuXZhzFUQ.jpg",
+  "rating": 5,
+  "userRatingCount": 111,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–22:00",
+    "wtorek: 07:00–22:00",
+    "środa: 07:00–22:00",
+    "czwartek: 07:00–22:00",
+    "piątek: 07:00–22:00",
+    "sobota: 07:00–22:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

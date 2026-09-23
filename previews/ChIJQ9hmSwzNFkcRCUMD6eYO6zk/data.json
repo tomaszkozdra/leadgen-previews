@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJQ9hmSwzNFkcRCUMD6eYO6zk",
+  "studioName": "BARS studio | Pilates klasyczny i trening siłowy | Świętochłowice",
+  "city": "Świętochłowice",
+  "addressLine": "Górnicza 57",
+  "postalCode": "41-600",
+  "phone": "+48 513 408 356",
+  "primaryColor": "#68543c",
+  "accentColor": "#a2ab6d",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJQ9hmSwzNFkcRCUMD6eYO6zk/ChIJQ9hmSwzNFkcRCUMD6eYO6zk.jpg",
+  "rating": 5,
+  "userRatingCount": 13,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

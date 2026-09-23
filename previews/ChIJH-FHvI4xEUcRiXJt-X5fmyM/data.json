@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJH-FHvI4xEUcRiXJt-X5fmyM",
+  "studioName": "Pilates Zone by Loranty",
+  "city": "Gliwice",
+  "addressLine": "Piwna 8",
+  "postalCode": "44-100",
+  "phone": "+48 501 489 855",
+  "primaryColor": "#6e4b35",
+  "accentColor": "#b4b264",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJH-FHvI4xEUcRiXJt-X5fmyM/ChIJH-FHvI4xEUcRiXJt-X5fmyM.jpg",
+  "rating": 4.9,
+  "userRatingCount": 33,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–19:00",
+    "piątek: 08:00–20:00",
+    "sobota: 08:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

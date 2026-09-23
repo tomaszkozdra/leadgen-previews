@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJGQm92yfkA0cRtGnUSG8Rf5s",
+  "studioName": "Fitness Extreme Piła",
+  "city": "Piła",
+  "addressLine": "Rodla 6",
+  "postalCode": "64-920",
+  "phone": "+48 533 177 557",
+  "primaryColor": "#3d6266",
+  "accentColor": "#7082a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJGQm92yfkA0cRtGnUSG8Rf5s/ChIJGQm92yfkA0cRtGnUSG8Rf5s.jpg",
+  "rating": 4.7,
+  "userRatingCount": 308,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 09:00–18:00",
+    "niedziela: 09:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

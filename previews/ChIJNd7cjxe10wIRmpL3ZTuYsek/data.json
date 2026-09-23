@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJNd7cjxe10wIRmpL3ZTuYsek",
+  "studioName": "Studio Impuls Wrocław | Studio Treningu Personalnego i Treningu EMS | Trening Personalny | Trening EMS | Trener Personalny",
+  "city": "Wrocław",
+  "addressLine": "Jedności Narodowej 244A",
+  "postalCode": "50-302",
+  "phone": "+48 780 085 380",
+  "primaryColor": "#66503d",
+  "accentColor": "#a6a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJNd7cjxe10wIRmpL3ZTuYsek/ChIJNd7cjxe10wIRmpL3ZTuYsek.jpg",
+  "rating": 5,
+  "userRatingCount": 120,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–22:00",
+    "wtorek: 07:30–22:00",
+    "środa: 07:30–22:00",
+    "czwartek: 07:30–22:00",
+    "piątek: 07:30–22:00",
+    "sobota: 09:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

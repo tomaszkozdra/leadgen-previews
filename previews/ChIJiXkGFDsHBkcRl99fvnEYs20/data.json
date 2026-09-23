@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJiXkGFDsHBkcRl99fvnEYs20",
+  "studioName": "ActivWorlds",
+  "city": "Nowa Sól",
+  "addressLine": "Wyspiańskiego 16",
+  "postalCode": "67-100",
+  "phone": "+48 783 483 243",
+  "primaryColor": "#2b4b78",
+  "accentColor": "#6957c2",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJiXkGFDsHBkcRl99fvnEYs20/ChIJiXkGFDsHBkcRl99fvnEYs20.jpg",
+  "rating": 5,
+  "userRatingCount": 54,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–22:00",
+    "wtorek: 08:00–22:00",
+    "środa: Zamknięte",
+    "czwartek: 08:00–22:00",
+    "piątek: 08:00–22:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

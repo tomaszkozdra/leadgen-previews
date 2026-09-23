@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ3QHsVivBD0cR0ol51SHsUMo",
+  "studioName": "Studio Treningu Personalnego Wrocław - HALE STUDIO",
+  "city": "Wrocław",
+  "addressLine": "Ludwika Solskiego 18A",
+  "postalCode": "52-416",
+  "phone": "+48 515 093 825",
+  "primaryColor": "#665b3d",
+  "accentColor": "#97a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ3QHsVivBD0cR0ol51SHsUMo/ChIJ3QHsVivBD0cR0ol51SHsUMo.jpg",
+  "rating": 5,
+  "userRatingCount": 44,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–20:00",
+    "wtorek: 07:00–20:00",
+    "środa: 07:00–20:00",
+    "czwartek: 07:00–20:00",
+    "piątek: 07:00–20:00",
+    "sobota: 09:00–18:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

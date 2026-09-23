@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ4TJkiP_TFkcRNR5awD0p9Po",
+  "studioName": "MaksFitStudio",
+  "city": "Chorzów",
+  "addressLine": "Księdza Jana Gałeczki 61",
+  "postalCode": "41-506",
+  "phone": "+48 690 017 320",
+  "primaryColor": "#3d5666",
+  "accentColor": "#7071a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ4TJkiP_TFkcRNR5awD0p9Po/ChIJ4TJkiP_TFkcRNR5awD0p9Po.png",
+  "rating": 5,
+  "userRatingCount": 7,
+  "openingHoursLines": [
+    "poniedziałek: 10:00–22:00",
+    "wtorek: 10:00–22:00",
+    "środa: 10:00–22:00",
+    "czwartek: 10:00–22:00",
+    "piątek: 10:00–22:00",
+    "sobota: 09:00–18:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

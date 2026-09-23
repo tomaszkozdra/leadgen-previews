@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ2_jFk7FpEUcRcJqh0_gvVfk",
+  "studioName": "Centrum Treningu Racibórz",
+  "city": "Racibórz",
+  "addressLine": "Jana Kochanowskiego 3",
+  "postalCode": "47-400",
+  "phone": "+48 602 502 240",
+  "primaryColor": "#715232",
+  "accentColor": "#b1b960",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ2_jFk7FpEUcRcJqh0_gvVfk/ChIJ2_jFk7FpEUcRcJqh0_gvVfk.jpg",
+  "rating": 5,
+  "userRatingCount": 50,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

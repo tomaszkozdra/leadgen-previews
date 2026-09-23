@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJYWM5ja1_4kYRDVdUBdYX0tc",
+  "studioName": "ODDECH studio - pilates na reformerach i joga na tarasie w centrum miasta",
+  "city": "Olsztyn",
+  "addressLine": "aleja Marszałka Józefa Piłsudskiego 10",
+  "postalCode": "10-576",
+  "phone": null,
+  "primaryColor": "#664f3d",
+  "accentColor": "#a7a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJYWM5ja1_4kYRDVdUBdYX0tc/ChIJYWM5ja1_4kYRDVdUBdYX0tc.jpg",
+  "rating": 5,
+  "userRatingCount": 21,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 06:00–22:00",
+    "niedziela: 06:00–22:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJSyKaQmeVFkcRgqft7SMFZjg",
+  "studioName": "Gym For You - Fitness Club - Oświęcim",
+  "city": "Babice",
+  "addressLine": "Krakowska 2A",
+  "postalCode": "32-600",
+  "phone": "+48 721 723 667",
+  "primaryColor": "#3d4766",
+  "accentColor": "#8370a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJSyKaQmeVFkcRgqft7SMFZjg/ChIJSyKaQmeVFkcRgqft7SMFZjg.jpg",
+  "rating": 4.7,
+  "userRatingCount": 455,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 08:00–18:00",
+    "niedziela: 08:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

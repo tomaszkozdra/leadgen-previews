@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJD0-YVZsVGEcRmXG9GoAp8cs",
+  "studioName": "Studio Figura Starachowice",
+  "city": "Starachowice",
+  "addressLine": "Skalista 3",
+  "postalCode": "27-200",
+  "phone": "+48 453 463 660",
+  "primaryColor": "#66513d",
+  "accentColor": "#a6a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJD0-YVZsVGEcRmXG9GoAp8cs/ChIJD0-YVZsVGEcRmXG9GoAp8cs.jpg",
+  "rating": 4.9,
+  "userRatingCount": 86,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–20:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–20:00",
+    "piątek: 08:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

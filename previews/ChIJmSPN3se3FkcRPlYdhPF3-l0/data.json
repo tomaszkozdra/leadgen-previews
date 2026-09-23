@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJmSPN3se3FkcRPlYdhPF3-l0",
+  "studioName": "GLOW studio pilates Tychy | Zajęcia na Reformerach",
+  "city": "Tychy",
+  "addressLine": "aleja Bielska 135c",
+  "postalCode": "43-100",
+  "phone": "+48 571 287 272",
+  "primaryColor": "#224b81",
+  "accentColor": "#5e4acf",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJmSPN3se3FkcRPlYdhPF3-l0/ChIJmSPN3se3FkcRPlYdhPF3-l0.jpg",
+  "rating": 5,
+  "userRatingCount": 61,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–11:30, 17:00–20:00",
+    "wtorek: 08:00–11:00, 18:00–20:00",
+    "środa: 07:30–11:20, 17:30–20:20",
+    "czwartek: 08:00–11:00, 18:00–22:00",
+    "piątek: 07:00–11:00, 17:00–22:00",
+    "sobota: 09:00–12:00",
+    "niedziela: 09:00–12:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

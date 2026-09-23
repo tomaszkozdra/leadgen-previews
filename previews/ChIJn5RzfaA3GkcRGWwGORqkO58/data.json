@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJn5RzfaA3GkcRGWwGORqkO58",
+  "studioName": "Studio Kameralni",
+  "city": "Pabianice",
+  "addressLine": "Torowa 25",
+  "postalCode": "95-200",
+  "phone": "+48 533 125 838",
+  "primaryColor": "#603d66",
+  "accentColor": "#a9708f",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJn5RzfaA3GkcRGWwGORqkO58/ChIJn5RzfaA3GkcRGWwGORqkO58.jpg",
+  "rating": 4.7,
+  "userRatingCount": 125,
+  "openingHoursLines": [
+    "poniedziałek: 16:30–21:30",
+    "wtorek: 16:30–21:30",
+    "środa: 16:30–21:30",
+    "czwartek: 16:30–21:30",
+    "piątek: 16:30–21:00",
+    "sobota: 08:30–12:00",
+    "niedziela: 09:30–12:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

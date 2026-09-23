@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJWygINs8xEUcRHyGkfAPPXwk",
+  "studioName": "Stoodio klasycznego pilatesu",
+  "city": "Gliwice",
+  "addressLine": "Młyńska 4",
+  "postalCode": "44-100",
+  "phone": "+48 664 469 107",
+  "primaryColor": "#66553d",
+  "accentColor": "#9fa970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJWygINs8xEUcRHyGkfAPPXwk/ChIJWygINs8xEUcRHyGkfAPPXwk.jpg",
+  "rating": 4.8,
+  "userRatingCount": 32,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–20:00",
+    "wtorek: 07:00–20:00",
+    "środa: 07:30–20:00",
+    "czwartek: 07:00–20:00",
+    "piątek: 08:30–12:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

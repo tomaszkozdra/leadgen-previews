@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJu-zuWdTNFkcRcOcIjH_nSsQ",
+  "studioName": "reMOVE Pilates Studio",
+  "city": "Ruda Śląska",
+  "addressLine": "1 Maja 117",
+  "postalCode": "41-710",
+  "phone": "+48 607 860 746",
+  "primaryColor": "#753d2f",
+  "accentColor": "#bea95b",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJu-zuWdTNFkcRcOcIjH_nSsQ/ChIJu-zuWdTNFkcRcOcIjH_nSsQ.jpg",
+  "rating": 5,
+  "userRatingCount": 18,
+  "openingHoursLines": [
+    "poniedziałek: 06:30–08:20, 17:00–19:50",
+    "wtorek: 06:30–08:20, 17:00–19:50",
+    "środa: 06:30–08:20, 17:00–19:50",
+    "czwartek: 06:30–08:20, 17:00–19:50",
+    "piątek: 06:30–08:20, 17:00–19:50",
+    "sobota: 08:00–10:50",
+    "niedziela: 09:00–11:50"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

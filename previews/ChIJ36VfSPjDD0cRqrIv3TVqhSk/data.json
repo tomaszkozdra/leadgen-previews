@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ36VfSPjDD0cRqrIv3TVqhSk",
+  "studioName": "GymWitch - Studio treningu personalnego",
+  "city": "Wrocław",
+  "addressLine": "Prądzyńskiego 47",
+  "postalCode": "50-433",
+  "phone": "+48 790 705 501",
+  "primaryColor": "#871d2a",
+  "accentColor": "#d78642",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ36VfSPjDD0cRqrIv3TVqhSk/ChIJ36VfSPjDD0cRqrIv3TVqhSk.jpg",
+  "rating": 5,
+  "userRatingCount": 43,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–20:00",
+    "wtorek: 06:00–20:00",
+    "środa: 06:00–20:00",
+    "czwartek: 06:00–20:00",
+    "piątek: 06:00–20:00",
+    "sobota: 09:00–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}

@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJUSzT6c8xEUcRdoJjLpw5Veg",
+  "studioName": "FLOW Pilates",
+  "city": "Gliwice",
+  "addressLine": "Bytomska 16",
+  "postalCode": "44-100",
+  "phone": "+48 453 456 439",
+  "primaryColor": "#3F4A3B",
+  "accentColor": "#C97C4B",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJUSzT6c8xEUcRdoJjLpw5Veg/ChIJUSzT6c8xEUcRdoJjLpw5Veg.jpg",
+  "rating": 5,
+  "userRatingCount": 15,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–20:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–20:00",
+    "piątek: 08:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
