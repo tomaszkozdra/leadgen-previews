@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ6XU6AZnNHkcRr0fQ7ijv8Uc",
+  "studioName": "BeShaped Studio Reformer Pilates | Showroom",
+  "city": "Warszawa",
+  "addressLine": "Aleje Jerozolimskie 123a",
+  "postalCode": "02-017",
+  "phone": "+48 732 099 350",
+  "primaryColor": "#664d3d",
+  "accentColor": "#a9a770",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ6XU6AZnNHkcRr0fQ7ijv8Uc/ChIJ6XU6AZnNHkcRr0fQ7ijv8Uc.jpg",
+  "rating": 5,
+  "userRatingCount": 74,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 09:00–13:00",
+    "niedziela: 09:00–13:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
