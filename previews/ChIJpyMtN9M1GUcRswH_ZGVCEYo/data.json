@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJpyMtN9M1GUcRswH_ZGVCEYo",
+  "studioName": "Efekt Pilates Reformer",
+  "city": "Warszawa",
+  "addressLine": "Globusowa 25",
+  "postalCode": "02-436",
+  "phone": "+48 790 367 817",
+  "primaryColor": "#69503a",
+  "accentColor": "#aaad6b",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJpyMtN9M1GUcRswH_ZGVCEYo/ChIJpyMtN9M1GUcRswH_ZGVCEYo.png",
+  "rating": 5,
+  "userRatingCount": 23,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–22:00",
+    "wtorek: 06:00–22:00",
+    "środa: 06:00–22:00",
+    "czwartek: 06:00–22:00",
+    "piątek: 06:00–22:00",
+    "sobota: 06:00–22:00",
+    "niedziela: 06:00–22:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
