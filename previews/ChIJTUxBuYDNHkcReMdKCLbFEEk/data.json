@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJTUxBuYDNHkcReMdKCLbFEEk",
+  "studioName": "StudioFK | Pilates | Joga | Praga Południe | Grochów | Warszawa",
+  "city": "Warszawa",
+  "addressLine": "Karczewska 18",
+  "postalCode": "04-112",
+  "phone": "+48 783 816 763",
+  "primaryColor": "#663f3d",
+  "accentColor": "#a99470",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJTUxBuYDNHkcReMdKCLbFEEk/ChIJTUxBuYDNHkcReMdKCLbFEEk.png",
+  "rating": 5,
+  "userRatingCount": 2,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–10:30, 16:00–20:00",
+    "wtorek: 07:30–10:30, 17:00–20:00",
+    "środa: 07:30–09:30, 16:00–20:00",
+    "czwartek: 07:30–10:30, 17:00–20:00",
+    "piątek: 07:30–10:30, 12:00–14:00",
+    "sobota: 09:00–11:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
