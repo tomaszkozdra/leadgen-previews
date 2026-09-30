@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJEUGwsNHNHkcRXjtXIn_gk00",
+  "studioName": "Boomerang Pilates Studio",
+  "city": "Warszawa",
+  "addressLine": "Alfreda Nobla 14",
+  "postalCode": "03-930",
+  "phone": "+48 799 032 002",
+  "primaryColor": "#87481d",
+  "accentColor": "#d7d642",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJEUGwsNHNHkcRXjtXIn_gk00/ChIJEUGwsNHNHkcRXjtXIn_gk00.jpg",
+  "rating": 5,
+  "userRatingCount": 26,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–17:00",
+    "niedziela: 08:00–17:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
