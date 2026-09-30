@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJC5pmHOvNHkcRblMpzBSsQVU",
+  "studioName": "POCZUJ CIAŁO studio pilates",
+  "city": "Warszawa",
+  "addressLine": "Rzymska 22",
+  "postalCode": "03-976",
+  "phone": "+48 575 480 890",
+  "primaryColor": "#664f3d",
+  "accentColor": "#a7a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJC5pmHOvNHkcRblMpzBSsQVU/ChIJC5pmHOvNHkcRblMpzBSsQVU.jpg",
+  "rating": 5,
+  "userRatingCount": 28,
+  "openingHoursLines": [
+    "poniedziałek: 11:00–14:00, 17:00–21:00",
+    "wtorek: 07:30–12:00, 17:00–21:00",
+    "środa: 07:00–12:00, 17:00–21:00",
+    "czwartek: 16:00–21:00",
+    "piątek: 08:30–10:30, 18:00–20:00",
+    "sobota: 08:00–12:00",
+    "niedziela: 08:00–13:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
