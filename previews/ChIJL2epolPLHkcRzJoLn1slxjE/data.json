@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJL2epolPLHkcRzJoLn1slxjE",
+  "studioName": "JOGA LUCE - studio jogi i pilatesu",
+  "city": "Warszawa",
+  "addressLine": "Jana Kazimierza 32A",
+  "postalCode": "01-248",
+  "phone": "+48 570 650 739",
+  "primaryColor": "#664f3d",
+  "accentColor": "#a8a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJL2epolPLHkcRzJoLn1slxjE/ChIJL2epolPLHkcRzJoLn1slxjE.jpg",
+  "rating": 5,
+  "userRatingCount": 53,
+  "openingHoursLines": [
+    "poniedziałek: 17:30–21:00",
+    "wtorek: 17:30–21:00",
+    "środa: 07:45–10:00, 17:30–21:00",
+    "czwartek: 17:30–21:00",
+    "piątek: 18:30–20:00",
+    "sobota: 10:00–12:30",
+    "niedziela: 09:00–11:30, 17:30–20:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
