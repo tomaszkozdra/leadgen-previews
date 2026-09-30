@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJSVsGYBTNHkcRTlC0zDyd5C4",
+  "studioName": "PoProstuPilates",
+  "city": "Warszawa",
+  "addressLine": "Józefa Sierakowskiego 4",
+  "postalCode": "03-712",
+  "phone": "+48 732 561 874",
+  "primaryColor": "#66523d",
+  "accentColor": "#a3a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJSVsGYBTNHkcRTlC0zDyd5C4/ChIJSVsGYBTNHkcRTlC0zDyd5C4.jpg",
+  "rating": 4.8,
+  "userRatingCount": 171,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 09:00–13:00",
+    "niedziela: 09:00–13:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
