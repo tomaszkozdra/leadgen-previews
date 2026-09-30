@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJb2rZ34rMHkcRMNHbYsWHMpU",
+  "studioName": "Omśrodek Hatha Jogi Warszawa",
+  "city": "Warszawa",
+  "addressLine": "Świętokrzyska 31",
+  "postalCode": "00-049",
+  "phone": "+48 603 107 107",
+  "primaryColor": "#6e4435",
+  "accentColor": "#b4a864",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJb2rZ34rMHkcRMNHbYsWHMpU/ChIJb2rZ34rMHkcRMNHbYsWHMpU.jpg",
+  "rating": 4.8,
+  "userRatingCount": 78,
+  "openingHoursLines": [
+    "poniedziałek: 06:45–21:45",
+    "wtorek: 15:15–21:45",
+    "środa: 06:45–21:45",
+    "czwartek: 15:15–21:45",
+    "piątek: 06:45–20:15",
+    "sobota: 08:00–12:30",
+    "niedziela: 08:45–20:30"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
