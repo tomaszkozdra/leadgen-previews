@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJC_hk-f_FEUcRTy9lu-EVmWc",
+  "studioName": "HomeFit Studio Nysa",
+  "city": "Jędrzychów",
+  "addressLine": "Polna 34",
+  "postalCode": "48-300",
+  "phone": "+48 881 771 882",
+  "primaryColor": "#861d33",
+  "accentColor": "#d67a43",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJC_hk-f_FEUcRTy9lu-EVmWc/ChIJC_hk-f_FEUcRTy9lu-EVmWc.png",
+  "rating": 5,
+  "userRatingCount": 1,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–20:00",
+    "wtorek: 09:00–20:00",
+    "środa: 09:00–20:00",
+    "czwartek: 09:00–20:00",
+    "piątek: 09:00–20:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
