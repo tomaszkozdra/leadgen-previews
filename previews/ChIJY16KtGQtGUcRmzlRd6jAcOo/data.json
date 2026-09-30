@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJY16KtGQtGUcRmzlRd6jAcOo",
+  "studioName": "Justyna Markowska - aerial joga i stretching",
+  "city": "Warszawa",
+  "addressLine": "Stanisława Kulczyńskiego 14",
+  "postalCode": "02-777",
+  "phone": "+48 603 074 242",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJY16KtGQtGUcRmzlRd6jAcOo/ChIJY16KtGQtGUcRmzlRd6jAcOo.jpg",
+  "rating": 5,
+  "userRatingCount": 17,
+  "openingHoursLines": [
+    "poniedziałek: Zamknięte",
+    "wtorek: 17:30–20:30",
+    "środa: Zamknięte",
+    "czwartek: 17:30–20:30",
+    "piątek: Zamknięte",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
