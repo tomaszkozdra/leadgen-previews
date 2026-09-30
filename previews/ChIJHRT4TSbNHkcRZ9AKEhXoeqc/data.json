@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJHRT4TSbNHkcRZ9AKEhXoeqc",
+  "studioName": "HOME YOGA kameralne studio jogi na Mokotowie (Dorota Kobos Yoga & Art)",
+  "city": "Warszawa",
+  "addressLine": "Puławska 24B",
+  "postalCode": "02-512",
+  "phone": "+48 604 184 544",
+  "primaryColor": "#87681d",
+  "accentColor": "#abd742",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJHRT4TSbNHkcRZ9AKEhXoeqc/ChIJHRT4TSbNHkcRZ9AKEhXoeqc.jpg",
+  "rating": 5,
+  "userRatingCount": 49,
+  "openingHoursLines": [
+    "poniedziałek: 07:05–09:00, 17:05–21:45",
+    "wtorek: 08:45–11:00, 17:45–21:30",
+    "środa: 07:05–09:00, 17:05–22:00",
+    "czwartek: 08:45–11:00, 17:45–21:45",
+    "piątek: 07:05–09:00, 19:45–21:30",
+    "sobota: 08:45–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
