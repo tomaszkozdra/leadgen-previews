@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJhwjSdNvpD0cRemtl52idYsg",
+  "studioName": "Trener Personalny Studio Treningu Na Szańcach",
+  "city": "Wrocław",
+  "addressLine": "Na Szańcach 7a",
+  "postalCode": "50-320",
+  "phone": "+48 792 317 243",
+  "primaryColor": "#674b3d",
+  "accentColor": "#aaa66f",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJhwjSdNvpD0cRemtl52idYsg/ChIJhwjSdNvpD0cRemtl52idYsg.jpg",
+  "rating": 5,
+  "userRatingCount": 178,
+  "openingHoursLines": [
+    "poniedziałek: 06:00–20:00",
+    "wtorek: 06:00–20:00",
+    "środa: 06:00–20:00",
+    "czwartek: 06:00–20:00",
+    "piątek: 06:00–20:00",
+    "sobota: 07:00–17:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
