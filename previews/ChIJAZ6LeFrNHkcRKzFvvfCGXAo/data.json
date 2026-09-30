@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJAZ6LeFrNHkcRKzFvvfCGXAo",
+  "studioName": "ElFlex Studio | Pilates - Stretching - Joga - Barre - Aero",
+  "city": "Warszawa",
+  "addressLine": "Marcina Kasprzaka 7",
+  "postalCode": "01-211",
+  "phone": "+48 517 353 800",
+  "primaryColor": "#1d3587",
+  "accentColor": "#7742d7",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJAZ6LeFrNHkcRKzFvvfCGXAo/ChIJAZ6LeFrNHkcRKzFvvfCGXAo.jpg",
+  "rating": 4.9,
+  "userRatingCount": 210,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–22:00",
+    "wtorek: 09:00–22:00",
+    "środa: 09:00–22:00",
+    "czwartek: 09:00–22:00",
+    "piątek: 09:00–22:00",
+    "sobota: 09:00–22:00",
+    "niedziela: 09:00–22:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
