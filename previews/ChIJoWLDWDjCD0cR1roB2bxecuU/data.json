@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJoWLDWDjCD0cR1roB2bxecuU",
+  "studioName": "wdech / wydech studio pilates Krzyki",
+  "city": "Wrocław",
+  "addressLine": "Racławicka 11",
+  "postalCode": "53-149",
+  "phone": null,
+  "primaryColor": "#874c1d",
+  "accentColor": "#d2d742",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJoWLDWDjCD0cR1roB2bxecuU/ChIJoWLDWDjCD0cR1roB2bxecuU.jpg",
+  "rating": 4.9,
+  "userRatingCount": 91,
+  "openingHoursLines": [
+    "poniedziałek: 07:30–21:00",
+    "wtorek: 07:30–21:00",
+    "środa: 07:30–21:00",
+    "czwartek: 07:30–21:00",
+    "piątek: 07:30–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
