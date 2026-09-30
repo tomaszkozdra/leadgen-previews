@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJTXbHm3w1GUcR3IwqQPX8zfw",
+  "studioName": "Jasna Asana Joga Studio",
+  "city": "Warszawa",
+  "addressLine": "Naukowa 20",
+  "postalCode": "02-463",
+  "phone": "+48 500 059 427",
+  "primaryColor": "#735231",
+  "accentColor": "#b3bb5e",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJTXbHm3w1GUcR3IwqQPX8zfw/ChIJTXbHm3w1GUcR3IwqQPX8zfw.jpg",
+  "rating": 4.9,
+  "userRatingCount": 58,
+  "openingHoursLines": [
+    "poniedziałek: 19:00–21:30",
+    "wtorek: 08:00–09:00, 19:00–21:30",
+    "środa: 18:00–20:30",
+    "czwartek: 08:00–10:30, 18:00–20:30",
+    "piątek: 18:00–20:30",
+    "sobota: 09:00–10:00",
+    "niedziela: 09:00–11:15"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
