@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJsQ9J9tXNHkcRKnFbIFNzQxk",
+  "studioName": "CHANGE Studio - Yoga & Pilates & Personal Training",
+  "city": "Warszawa",
+  "addressLine": "Wronia 10",
+  "postalCode": "00-840",
+  "phone": "+48 736 655 128",
+  "primaryColor": "#66543d",
+  "accentColor": "#a1a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJsQ9J9tXNHkcRKnFbIFNzQxk/ChIJsQ9J9tXNHkcRKnFbIFNzQxk.jpg",
+  "rating": 4.9,
+  "userRatingCount": 105,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–22:00",
+    "wtorek: 07:00–22:00",
+    "środa: 07:00–22:00",
+    "czwartek: 07:00–22:00",
+    "piątek: 07:00–22:00",
+    "sobota: 09:00–18:00",
+    "niedziela: 09:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
