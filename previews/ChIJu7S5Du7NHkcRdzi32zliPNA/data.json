@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJu7S5Du7NHkcRdzi32zliPNA",
+  "studioName": "BodyVibes - wszystkie zajęcia jogi i pilatesu w jednej aplikacji",
+  "city": "Warszawa",
+  "addressLine": "Raszyńska 32",
+  "postalCode": "02-019",
+  "phone": null,
+  "primaryColor": "#29367a",
+  "accentColor": "#8454c5",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJu7S5Du7NHkcRdzi32zliPNA/ChIJu7S5Du7NHkcRdzi32zliPNA.jpg",
+  "rating": 4.8,
+  "userRatingCount": 51,
+  "openingHoursLines": [
+    "poniedziałek: Czynne całą dobę",
+    "wtorek: Czynne całą dobę",
+    "środa: Czynne całą dobę",
+    "czwartek: Czynne całą dobę",
+    "piątek: Czynne całą dobę",
+    "sobota: Czynne całą dobę",
+    "niedziela: Czynne całą dobę"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
