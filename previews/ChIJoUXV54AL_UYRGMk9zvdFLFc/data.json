@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJoUXV54AL_UYRGMk9zvdFLFc",
+  "studioName": "Sopot Yoga",
+  "city": "Sopot",
+  "addressLine": "Morska 11a",
+  "postalCode": "81-764",
+  "phone": "+48 608 046 123",
+  "primaryColor": "#2e7569",
+  "accentColor": "#5a96be",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJoUXV54AL_UYRGMk9zvdFLFc/ChIJoUXV54AL_UYRGMk9zvdFLFc.jpg",
+  "rating": 5,
+  "userRatingCount": 56,
+  "openingHoursLines": [
+    "poniedziałek: 06:45–10:00, 18:15–20:00",
+    "wtorek: 07:15–10:30, 16:45–21:30",
+    "środa: 06:45–11:30, 17:45–20:45",
+    "czwartek: 07:00–10:30, 18:45–21:00",
+    "piątek: 06:45–11:30, 17:15–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
