@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJWTtwPWaVFkcR86d02ao40TE",
+  "studioName": "Trener Personalny Michał Przybyło - Studio Formy",
+  "city": "Oświęcim",
+  "addressLine": "Królowej Jadwigi 13B",
+  "postalCode": "32-600",
+  "phone": "+48 515 613 666",
+  "primaryColor": "#3d5466",
+  "accentColor": "#7170a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJWTtwPWaVFkcR86d02ao40TE/ChIJWTtwPWaVFkcR86d02ao40TE.jpg",
+  "rating": 5,
+  "userRatingCount": 33,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
