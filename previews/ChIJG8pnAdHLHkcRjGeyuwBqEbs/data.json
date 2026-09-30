@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJG8pnAdHLHkcRjGeyuwBqEbs",
+  "studioName": "GOJA JOGA - Yoga Studio",
+  "city": "Warszawa",
+  "addressLine": "Obozowa 87",
+  "postalCode": "01-433",
+  "phone": null,
+  "primaryColor": "#805123",
+  "accentColor": "#c4ce4b",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJG8pnAdHLHkcRjGeyuwBqEbs/ChIJG8pnAdHLHkcRjGeyuwBqEbs.png",
+  "rating": 5,
+  "userRatingCount": 51,
+  "openingHoursLines": [
+    "poniedziałek: 16:30–21:00",
+    "wtorek: 17:30–21:00",
+    "środa: 09:00–20:30",
+    "czwartek: 17:00–21:00",
+    "piątek: 16:00–20:30",
+    "sobota: 10:30–17:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
