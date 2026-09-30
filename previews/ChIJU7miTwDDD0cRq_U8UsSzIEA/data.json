@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJU7miTwDDD0cRq_U8UsSzIEA",
+  "studioName": "Pilates Flow",
+  "city": "Wrocław",
+  "addressLine": "Grabiszyńska 200",
+  "postalCode": "53-235",
+  "phone": "+48 514 854 845",
+  "primaryColor": "#663d40",
+  "accentColor": "#a98c70",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJU7miTwDDD0cRq_U8UsSzIEA/ChIJU7miTwDDD0cRq_U8UsSzIEA.jpg",
+  "rating": 4.8,
+  "userRatingCount": 61,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–21:00",
+    "niedziela: 07:00–21:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
