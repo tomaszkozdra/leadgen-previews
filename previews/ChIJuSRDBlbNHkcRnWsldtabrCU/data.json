@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJuSRDBlbNHkcRnWsldtabrCU",
+  "studioName": "ALTER pilates studio",
+  "city": "Warszawa",
+  "addressLine": "Mangalia 4",
+  "postalCode": "02-758",
+  "phone": "+48 530 906 696",
+  "primaryColor": "#7b4a29",
+  "accentColor": "#c6c652",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJuSRDBlbNHkcRnWsldtabrCU/ChIJuSRDBlbNHkcRnWsldtabrCU.jpg",
+  "rating": 5,
+  "userRatingCount": 36,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 08:00–16:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
