@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJad6vaKEtGUcRCaWp-16dUQU",
+  "studioName": "Studio Wdech - Aerial Joga, Pilates i inne zajęcia dla ciała i ducha",
+  "city": "Warszawa",
+  "addressLine": "Gratyny 24E",
+  "postalCode": "02-995",
+  "phone": "+48 511 500 500",
+  "primaryColor": "#66533d",
+  "accentColor": "#a2a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJad6vaKEtGUcRCaWp-16dUQU/ChIJad6vaKEtGUcRCaWp-16dUQU.jpg",
+  "rating": 4.9,
+  "userRatingCount": 51,
+  "openingHoursLines": [
+    "poniedziałek: 19:15–20:15",
+    "wtorek: 17:15–21:00",
+    "środa: 18:00–20:00",
+    "czwartek: 17:15–21:00",
+    "piątek: Zamknięte",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
