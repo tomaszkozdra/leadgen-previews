@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ3wgLs5F0_UYRNuEQUKXEODw",
+  "studioName": "Zatoka Jogi",
+  "city": "Sopot",
+  "addressLine": "3 Maja 6A",
+  "postalCode": "81-729",
+  "phone": "+48 601 150 158",
+  "primaryColor": "#6b5238",
+  "accentColor": "#a9b069",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ3wgLs5F0_UYRNuEQUKXEODw/ChIJ3wgLs5F0_UYRNuEQUKXEODw.jpg",
+  "rating": 4.8,
+  "userRatingCount": 12,
+  "openingHoursLines": [
+    "poniedziałek: 08:30–20:00",
+    "wtorek: 09:00–20:30",
+    "środa: 08:30–20:00",
+    "czwartek: 09:00–20:30",
+    "piątek: 09:00–10:30",
+    "sobota: 09:00–12:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
