@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJwxmBXaZbFkcRbuujg14EbLg",
+  "studioName": "Pilates House Kraków",
+  "city": "Kraków",
+  "addressLine": "Kasztelańska 51",
+  "postalCode": "30-116",
+  "phone": "+48 511 140 001",
+  "primaryColor": "#385d6b",
+  "accentColor": "#6973b0",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJwxmBXaZbFkcRbuujg14EbLg/ChIJwxmBXaZbFkcRbuujg14EbLg.jpg",
+  "rating": 5,
+  "userRatingCount": 5,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–20:00",
+    "wtorek: 08:00–20:00",
+    "środa: 08:00–20:00",
+    "czwartek: 08:00–20:00",
+    "piątek: 08:00–20:00",
+    "sobota: 08:00–16:00",
+    "niedziela: 08:00–16:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
