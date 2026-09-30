@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJQ1FeLnIyGUcR5P2TwuPGtF4",
+  "studioName": "joga milano",
+  "city": "Warszawa",
+  "addressLine": "Kajakowa 12b",
+  "postalCode": "02-838",
+  "phone": "+48 608 120 754",
+  "primaryColor": "#871d26",
+  "accentColor": "#d78c42",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJQ1FeLnIyGUcR5P2TwuPGtF4/ChIJQ1FeLnIyGUcR5P2TwuPGtF4.jpg",
+  "rating": 5,
+  "userRatingCount": 4,
+  "openingHoursLines": [
+    "poniedziałek: Zamknięte",
+    "wtorek: 08:30–13:00",
+    "środa: Zamknięte",
+    "czwartek: 08:30–13:00",
+    "piątek: Zamknięte",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
