@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJ05h9GkQzGUcRr-8hENUDEQE",
+  "studioName": "Joga EG.HARMONY",
+  "city": "Warszawa",
+  "addressLine": "Jaśminowa 2",
+  "postalCode": "02-717",
+  "phone": "+48 516 059 427",
+  "primaryColor": "#66453d",
+  "accentColor": "#a99c6f",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJ05h9GkQzGUcRr-8hENUDEQE/ChIJ05h9GkQzGUcRr-8hENUDEQE.jpg",
+  "rating": 5,
+  "userRatingCount": 31,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–17:00",
+    "wtorek: 09:00–18:00",
+    "środa: 09:00–18:00",
+    "czwartek: 18:00–00:00",
+    "piątek: 00:00–18:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
