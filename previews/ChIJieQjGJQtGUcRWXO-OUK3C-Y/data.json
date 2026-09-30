@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJieQjGJQtGUcRWXO-OUK3C-Y",
+  "studioName": "Lubię.Pilates Wilanów",
+  "city": "Warszawa",
+  "addressLine": "Rycerstwa Polskiego 4",
+  "postalCode": "02-999",
+  "phone": "+48 500 597 272",
+  "primaryColor": "#66613d",
+  "accentColor": "#8ea970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJieQjGJQtGUcRWXO-OUK3C-Y/ChIJieQjGJQtGUcRWXO-OUK3C-Y.jpg",
+  "rating": 4.9,
+  "userRatingCount": 42,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–12:00, 17:00–21:00",
+    "wtorek: 08:00–12:00, 17:00–21:00",
+    "środa: 09:00–13:00, 17:00–21:00",
+    "czwartek: 09:00–11:00, 17:00–21:00",
+    "piątek: 09:00–13:00, 17:00–20:00",
+    "sobota: 09:00–12:00",
+    "niedziela: 09:00–13:00, 16:00–18:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
