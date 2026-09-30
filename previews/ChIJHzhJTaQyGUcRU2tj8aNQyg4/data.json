@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJHzhJTaQyGUcRU2tj8aNQyg4",
+  "studioName": "Agi Yoga Studio",
+  "city": "Warszawa",
+  "addressLine": "Aleja Wilanowska 67e",
+  "postalCode": "02-765",
+  "phone": "+48 602 720 077",
+  "primaryColor": "#1d6887",
+  "accentColor": "#4254d7",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJHzhJTaQyGUcRU2tj8aNQyg4/ChIJHzhJTaQyGUcRU2tj8aNQyg4.jpg",
+  "rating": 5,
+  "userRatingCount": 68,
+  "openingHoursLines": [
+    "poniedziałek: 19:00–20:30",
+    "wtorek: Zamknięte",
+    "środa: 09:30–11:00",
+    "czwartek: 19:00–20:30",
+    "piątek: 09:30–11:00",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
