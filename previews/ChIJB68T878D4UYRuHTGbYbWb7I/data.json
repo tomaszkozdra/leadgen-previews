@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJB68T878D4UYRuHTGbYbWb7I",
+  "studioName": "Studio BALANCE - Dietetyk, Trener Personalny Suwałki",
+  "city": "Suwałki",
+  "addressLine": "Ks. Jerzego Jana Zawadzkiego 2",
+  "postalCode": "16-400",
+  "phone": "+48 503 174 009",
+  "primaryColor": "#6d6737",
+  "accentColor": "#8eb266",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJB68T878D4UYRuHTGbYbWb7I/ChIJB68T878D4UYRuHTGbYbWb7I.jpg",
+  "rating": 4.6,
+  "userRatingCount": 14,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–17:30",
+    "wtorek: 08:00–17:30",
+    "środa: 08:00–17:30",
+    "czwartek: 08:00–17:30",
+    "piątek: 08:00–17:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
