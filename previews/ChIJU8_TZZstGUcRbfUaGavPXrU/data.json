@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJU8_TZZstGUcRbfUaGavPXrU",
+  "studioName": "Way Up Pilates Studio - Warszawa",
+  "city": "Warszawa",
+  "addressLine": "Sarmacka 14c",
+  "postalCode": "02-972",
+  "phone": "+48 509 591 465",
+  "primaryColor": "#3d3f66",
+  "accentColor": "#8e70a9",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJU8_TZZstGUcRbfUaGavPXrU/ChIJU8_TZZstGUcRbfUaGavPXrU.jpg",
+  "rating": 5,
+  "userRatingCount": 61,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 09:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 09:00–21:00",
+    "piątek: 08:00–20:00",
+    "sobota: 08:30–14:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
