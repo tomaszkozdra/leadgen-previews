@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJf1audgDPHkcRJe7O9qNpJh8",
+  "studioName": "Zama Pilates",
+  "city": "Warszawa",
+  "addressLine": "Płosa 3",
+  "postalCode": "03-531",
+  "phone": "+48 535 250 990",
+  "primaryColor": "#6c4c37",
+  "accentColor": "#b2b166",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJf1audgDPHkcRJe7O9qNpJh8/ChIJf1audgDPHkcRJe7O9qNpJh8.jpg",
+  "rating": 4.7,
+  "userRatingCount": 93,
+  "openingHoursLines": [
+    "poniedziałek: 08:00–21:00",
+    "wtorek: 08:00–21:00",
+    "środa: 08:00–21:00",
+    "czwartek: 08:00–21:00",
+    "piątek: 08:00–21:00",
+    "sobota: 08:00–21:00",
+    "niedziela: 08:00–21:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
