@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJAeBjthNLGkcR7GRBcdcnh5A",
+  "studioName": "Studio Pilatesu Klasycznego Calm Studio",
+  "city": "Konstantynów Łódzki",
+  "addressLine": "Zgierska 64",
+  "postalCode": "95-050",
+  "phone": "+48 510 559 460",
+  "primaryColor": "#6c5137",
+  "accentColor": "#acb267",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJAeBjthNLGkcR7GRBcdcnh5A/ChIJAeBjthNLGkcR7GRBcdcnh5A.jpg",
+  "rating": 5,
+  "userRatingCount": 15,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–20:00",
+    "wtorek: 09:00–20:00",
+    "środa: 09:00–20:00",
+    "czwartek: 09:00–20:00",
+    "piątek: 09:00–20:00",
+    "sobota: 09:00–13:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
