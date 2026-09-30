@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJN4fViNrMHkcR_ERZXIVB6lc",
+  "studioName": "ASY-studio",
+  "city": "Warszawa",
+  "addressLine": "Studencka 40",
+  "postalCode": "02-735",
+  "phone": "+48 883 093 134",
+  "primaryColor": "#823021",
+  "accentColor": "#d1ad48",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJN4fViNrMHkcR_ERZXIVB6lc/ChIJN4fViNrMHkcR_ERZXIVB6lc.jpg",
+  "rating": 5,
+  "userRatingCount": 116,
+  "openingHoursLines": [
+    "poniedziałek: 09:00–20:30",
+    "wtorek: 09:00–20:30",
+    "środa: 09:00–20:30",
+    "czwartek: 09:00–20:30",
+    "piątek: 09:00–20:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
