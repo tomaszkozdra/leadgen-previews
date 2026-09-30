@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJdeWFk5RDBEcRqb5UXWU1yf0",
+  "studioName": "AGAMA PILATES",
+  "city": "Suchy Las",
+  "addressLine": "Os.Szafirowe 2a",
+  "postalCode": "62-002",
+  "phone": "+48 782 484 524",
+  "primaryColor": "#704d34",
+  "accentColor": "#b6b762",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJdeWFk5RDBEcRqb5UXWU1yf0/ChIJdeWFk5RDBEcRqb5UXWU1yf0.jpg",
+  "rating": 5,
+  "userRatingCount": 15,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–15:00",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
