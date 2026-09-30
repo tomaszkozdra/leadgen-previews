@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJhTChYDAzGUcRX8hl0xifRhk",
+  "studioName": "STUDIO PILATES REFORMER",
+  "city": "Warszawa",
+  "addressLine": "Stanisława Herbsta 4",
+  "postalCode": "02-784",
+  "phone": "+48 604 297 940",
+  "primaryColor": "#66523d",
+  "accentColor": "#a4a970",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJhTChYDAzGUcRX8hl0xifRhk/ChIJhTChYDAzGUcRX8hl0xifRhk.jpg",
+  "rating": 5,
+  "userRatingCount": 10,
+  "openingHoursLines": [
+    "poniedziałek: 07:00–21:00",
+    "wtorek: 07:00–21:00",
+    "środa: 07:00–21:00",
+    "czwartek: 07:00–21:00",
+    "piątek: 07:00–21:00",
+    "sobota: 07:00–21:00",
+    "niedziela: 07:00–21:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
