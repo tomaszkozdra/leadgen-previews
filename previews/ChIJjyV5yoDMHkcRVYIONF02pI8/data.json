@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJjyV5yoDMHkcRVYIONF02pI8",
+  "studioName": "YogiTribe: Vinyasa Yoga Studio",
+  "city": "Warszawa",
+  "addressLine": "Okopowa 59",
+  "postalCode": "01-043",
+  "phone": "+48 508 313 407",
+  "primaryColor": "#664d3d",
+  "accentColor": "#a9a770",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJjyV5yoDMHkcRVYIONF02pI8/ChIJjyV5yoDMHkcRVYIONF02pI8.jpg",
+  "rating": 5,
+  "userRatingCount": 58,
+  "openingHoursLines": [
+    "poniedziałek: 17:30–19:30",
+    "wtorek: 17:30–19:30",
+    "środa: 18:30–19:30",
+    "czwartek: 17:30–19:30",
+    "piątek: 18:30–19:30",
+    "sobota: Zamknięte",
+    "niedziela: Zamknięte"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
