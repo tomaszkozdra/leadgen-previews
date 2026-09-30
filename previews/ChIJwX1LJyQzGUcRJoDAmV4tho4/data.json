@@ -1,0 +1,25 @@
+{
+  "leadId": "ChIJwX1LJyQzGUcRJoDAmV4tho4",
+  "studioName": "Nays-Yoga, oaza spokoju na Mokotowie (joga, aerial joga, relaksacja, zdrowy kręgosłup, hot yoga,gabinet osteopatii)",
+  "city": "Warszawa",
+  "addressLine": "Postępu 17B",
+  "postalCode": "02-676",
+  "phone": "+48 515 629 705",
+  "primaryColor": "#69583a",
+  "accentColor": "#9ead6c",
+  "heroImageUrl": "https://raw.githubusercontent.com/tomaszkozdra/leadgen-previews/main/previews/ChIJwX1LJyQzGUcRJoDAmV4tho4/ChIJwX1LJyQzGUcRJoDAmV4tho4.jpg",
+  "rating": 5,
+  "userRatingCount": 100,
+  "openingHoursLines": [
+    "poniedziałek: 17:00–21:00",
+    "wtorek: 17:00–21:00",
+    "środa: 17:00–21:30",
+    "czwartek: 17:00–21:30",
+    "piątek: 17:00–20:00",
+    "sobota: 08:30–12:00",
+    "niedziela: 10:00–13:00"
+  ],
+  "classes": [],
+  "instructorNames": [],
+  "singlePrice": null
+}
